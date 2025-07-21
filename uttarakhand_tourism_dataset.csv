@@ -1,0 +1,2001 @@
+interest,age_group,weather,duration,destination
+Adventure,18-30,Moderate,6-7,Jim Corbett
+Adventure,18-30,Hot,3-4,Auli
+Religious,18-30,Cold,3-4,Gangotri
+Relaxation,51+,Hot,5-6,Nainital
+Relaxation,31-50,Hot,2-3,Mussoorie
+Spiritual,18-30,Moderate,3-4,Badrinath
+Wildlife,31-50,Moderate,5-6,Rajaji National Park
+Adventure,51+,Moderate,4-5,Rishikesh
+Relaxation,31-50,Moderate,2-3,Nainital
+Adventure,31-50,Moderate,3-4,Mussoorie
+Spiritual,51+,Cold,2-3,Badrinath
+Relaxation,18-30,Hot,5-6,Nainital
+Adventure,51+,Hot,5-6,Mussoorie
+Wildlife,31-50,Moderate,2-3,Jim Corbett
+Relaxation,31-50,Moderate,6-7,Nainital
+Wildlife,51+,Hot,4-5,Rajaji National Park
+Wildlife,18-30,Hot,6-7,Rajaji National Park
+Religious,31-50,Moderate,2-3,Haridwar
+Nature,51+,Moderate,3-4,Nainital
+Religious,51+,Moderate,1-2,Gangotri
+Adventure,51+,Moderate,1-2,Mussoorie
+Spiritual,31-50,Hot,1-2,Rishikesh
+Nature,18-30,Moderate,1-2,Auli
+Religious,31-50,Cold,4-5,Badrinath
+Relaxation,51+,Moderate,4-5,Almora
+Adventure,31-50,Hot,4-5,Auli
+Religious,51+,Moderate,4-5,Gangotri
+Relaxation,18-30,Moderate,2-3,Nainital
+Adventure,51+,Moderate,6-7,Auli
+Religious,31-50,Cold,6-7,Gangotri
+Adventure,18-30,Cold,5-6,Auli
+Wildlife,51+,Cold,6-7,Rajaji National Park
+Wildlife,31-50,Cold,6-7,Rajaji National Park
+Religious,18-30,Moderate,1-2,Gangotri
+Nature,18-30,Hot,5-6,Nainital
+Nature,31-50,Cold,6-7,Nainital
+Adventure,51+,Hot,6-7,Mussoorie
+Religious,51+,Cold,3-4,Kedarnath
+Spiritual,51+,Cold,6-7,Haridwar
+Wildlife,31-50,Moderate,3-4,Rajaji National Park
+Spiritual,51+,Hot,1-2,Rishikesh
+Wildlife,31-50,Hot,1-2,Jim Corbett
+Wildlife,31-50,Hot,4-5,Jim Corbett
+Nature,18-30,Cold,1-2,Nainital
+Spiritual,51+,Hot,5-6,Badrinath
+Wildlife,18-30,Hot,4-5,Rajaji National Park
+Nature,18-30,Moderate,3-4,Jim Corbett
+Spiritual,31-50,Hot,3-4,Haridwar
+Adventure,31-50,Cold,5-6,Jim Corbett
+Adventure,51+,Cold,6-7,Rishikesh
+Nature,51+,Hot,4-5,Nainital
+Wildlife,51+,Moderate,5-6,Jim Corbett
+Adventure,51+,Cold,5-6,Mussoorie
+Adventure,51+,Moderate,2-3,Rishikesh
+Adventure,18-30,Cold,1-2,Rishikesh
+Wildlife,31-50,Moderate,4-5,Jim Corbett
+Wildlife,18-30,Moderate,1-2,Rajaji National Park
+Relaxation,18-30,Cold,2-3,Nainital
+Religious,51+,Hot,4-5,Haridwar
+Wildlife,51+,Cold,2-3,Jim Corbett
+Religious,51+,Moderate,4-5,Gangotri
+Relaxation,18-30,Cold,1-2,Almora
+Relaxation,51+,Moderate,3-4,Almora
+Relaxation,18-30,Hot,3-4,Almora
+Spiritual,51+,Moderate,1-2,Badrinath
+Adventure,31-50,Hot,3-4,Rishikesh
+Adventure,31-50,Cold,6-7,Rishikesh
+Nature,31-50,Moderate,2-3,Valley of Flowers
+Spiritual,18-30,Cold,2-3,Haridwar
+Nature,18-30,Cold,4-5,Valley of Flowers
+Religious,31-50,Moderate,5-6,Haridwar
+Religious,18-30,Moderate,6-7,Kedarnath
+Wildlife,51+,Hot,6-7,Rajaji National Park
+Religious,18-30,Cold,3-4,Gangotri
+Adventure,31-50,Hot,4-5,Jim Corbett
+Religious,18-30,Cold,3-4,Haridwar
+Spiritual,51+,Hot,6-7,Haridwar
+Nature,18-30,Moderate,5-6,Auli
+Relaxation,31-50,Cold,1-2,Almora
+Adventure,18-30,Hot,1-2,Auli
+Adventure,31-50,Cold,3-4,Jim Corbett
+Religious,18-30,Cold,3-4,Gangotri
+Relaxation,31-50,Moderate,1-2,Nainital
+Religious,18-30,Hot,1-2,Kedarnath
+Religious,31-50,Hot,2-3,Haridwar
+Spiritual,51+,Moderate,1-2,Badrinath
+Wildlife,51+,Cold,4-5,Rajaji National Park
+Spiritual,31-50,Hot,2-3,Haridwar
+Adventure,51+,Hot,4-5,Auli
+Wildlife,31-50,Cold,4-5,Rajaji National Park
+Nature,31-50,Moderate,3-4,Nainital
+Religious,31-50,Hot,2-3,Gangotri
+Spiritual,51+,Hot,2-3,Badrinath
+Relaxation,18-30,Moderate,4-5,Almora
+Relaxation,51+,Moderate,1-2,Mussoorie
+Relaxation,31-50,Hot,6-7,Nainital
+Religious,31-50,Cold,1-2,Kedarnath
+Religious,18-30,Moderate,4-5,Gangotri
+Religious,31-50,Hot,2-3,Haridwar
+Nature,51+,Cold,6-7,Jim Corbett
+Religious,31-50,Hot,6-7,Badrinath
+Relaxation,18-30,Cold,4-5,Mussoorie
+Adventure,31-50,Hot,4-5,Auli
+Religious,18-30,Cold,2-3,Badrinath
+Spiritual,18-30,Moderate,3-4,Badrinath
+Relaxation,18-30,Moderate,4-5,Mussoorie
+Relaxation,31-50,Moderate,5-6,Nainital
+Adventure,51+,Cold,5-6,Jim Corbett
+Wildlife,18-30,Hot,6-7,Jim Corbett
+Spiritual,51+,Hot,6-7,Badrinath
+Relaxation,51+,Moderate,1-2,Mussoorie
+Relaxation,31-50,Moderate,1-2,Mussoorie
+Spiritual,51+,Hot,2-3,Rishikesh
+Adventure,18-30,Hot,6-7,Auli
+Religious,18-30,Moderate,4-5,Badrinath
+Nature,51+,Moderate,2-3,Jim Corbett
+Religious,18-30,Hot,3-4,Badrinath
+Religious,51+,Hot,3-4,Kedarnath
+Relaxation,18-30,Hot,4-5,Nainital
+Adventure,51+,Moderate,3-4,Auli
+Wildlife,31-50,Moderate,1-2,Jim Corbett
+Relaxation,31-50,Cold,2-3,Mussoorie
+Spiritual,18-30,Hot,2-3,Badrinath
+Religious,51+,Cold,4-5,Gangotri
+Relaxation,18-30,Cold,5-6,Mussoorie
+Religious,31-50,Hot,5-6,Badrinath
+Spiritual,31-50,Moderate,1-2,Haridwar
+Religious,51+,Hot,5-6,Kedarnath
+Spiritual,18-30,Hot,3-4,Rishikesh
+Religious,51+,Hot,4-5,Kedarnath
+Relaxation,18-30,Cold,5-6,Almora
+Spiritual,18-30,Hot,2-3,Rishikesh
+Spiritual,18-30,Moderate,3-4,Rishikesh
+Wildlife,18-30,Cold,2-3,Rajaji National Park
+Relaxation,18-30,Hot,5-6,Mussoorie
+Adventure,51+,Moderate,5-6,Jim Corbett
+Wildlife,31-50,Cold,5-6,Rajaji National Park
+Wildlife,18-30,Hot,4-5,Rajaji National Park
+Adventure,31-50,Cold,4-5,Auli
+Spiritual,18-30,Cold,6-7,Rishikesh
+Wildlife,18-30,Cold,4-5,Jim Corbett
+Nature,51+,Hot,1-2,Auli
+Wildlife,51+,Cold,6-7,Rajaji National Park
+Religious,31-50,Cold,1-2,Kedarnath
+Relaxation,51+,Moderate,3-4,Almora
+Relaxation,51+,Cold,5-6,Almora
+Adventure,51+,Cold,2-3,Jim Corbett
+Spiritual,51+,Hot,1-2,Badrinath
+Religious,51+,Moderate,4-5,Gangotri
+Relaxation,18-30,Cold,4-5,Nainital
+Nature,51+,Moderate,5-6,Nainital
+Wildlife,18-30,Moderate,2-3,Rajaji National Park
+Adventure,18-30,Moderate,1-2,Rishikesh
+Adventure,51+,Hot,2-3,Auli
+Nature,18-30,Cold,4-5,Nainital
+Religious,51+,Moderate,5-6,Haridwar
+Spiritual,51+,Moderate,6-7,Rishikesh
+Religious,18-30,Cold,3-4,Gangotri
+Wildlife,18-30,Hot,3-4,Rajaji National Park
+Nature,18-30,Hot,1-2,Nainital
+Relaxation,51+,Hot,3-4,Nainital
+Religious,51+,Moderate,3-4,Gangotri
+Relaxation,31-50,Hot,4-5,Mussoorie
+Relaxation,31-50,Moderate,1-2,Nainital
+Relaxation,31-50,Hot,6-7,Mussoorie
+Wildlife,18-30,Cold,2-3,Rajaji National Park
+Spiritual,31-50,Hot,4-5,Rishikesh
+Spiritual,18-30,Cold,5-6,Badrinath
+Spiritual,18-30,Cold,5-6,Haridwar
+Relaxation,51+,Moderate,2-3,Almora
+Relaxation,31-50,Moderate,2-3,Almora
+Nature,31-50,Hot,1-2,Valley of Flowers
+Religious,31-50,Moderate,2-3,Haridwar
+Spiritual,51+,Moderate,3-4,Rishikesh
+Wildlife,51+,Moderate,6-7,Rajaji National Park
+Nature,18-30,Cold,6-7,Nainital
+Religious,31-50,Hot,3-4,Gangotri
+Adventure,18-30,Hot,4-5,Jim Corbett
+Religious,51+,Cold,5-6,Gangotri
+Religious,51+,Hot,3-4,Badrinath
+Relaxation,18-30,Hot,6-7,Nainital
+Adventure,51+,Hot,6-7,Rishikesh
+Spiritual,31-50,Cold,6-7,Haridwar
+Spiritual,31-50,Cold,4-5,Badrinath
+Religious,18-30,Hot,2-3,Badrinath
+Wildlife,51+,Cold,5-6,Jim Corbett
+Nature,31-50,Moderate,3-4,Auli
+Spiritual,31-50,Moderate,4-5,Haridwar
+Spiritual,51+,Cold,3-4,Rishikesh
+Adventure,31-50,Hot,4-5,Rishikesh
+Relaxation,18-30,Moderate,1-2,Mussoorie
+Relaxation,31-50,Moderate,3-4,Almora
+Nature,18-30,Cold,1-2,Auli
+Adventure,31-50,Cold,4-5,Jim Corbett
+Relaxation,18-30,Moderate,1-2,Mussoorie
+Relaxation,18-30,Moderate,2-3,Mussoorie
+Religious,18-30,Cold,3-4,Kedarnath
+Adventure,31-50,Cold,1-2,Auli
+Spiritual,51+,Cold,4-5,Rishikesh
+Nature,51+,Hot,1-2,Auli
+Spiritual,51+,Cold,6-7,Haridwar
+Religious,18-30,Moderate,2-3,Badrinath
+Religious,31-50,Hot,3-4,Badrinath
+Spiritual,18-30,Cold,6-7,Badrinath
+Spiritual,31-50,Hot,1-2,Badrinath
+Spiritual,18-30,Moderate,6-7,Badrinath
+Adventure,18-30,Moderate,1-2,Auli
+Religious,31-50,Cold,5-6,Haridwar
+Wildlife,18-30,Cold,1-2,Rajaji National Park
+Religious,18-30,Cold,2-3,Haridwar
+Adventure,18-30,Moderate,2-3,Mussoorie
+Nature,31-50,Moderate,4-5,Auli
+Adventure,31-50,Cold,6-7,Jim Corbett
+Wildlife,31-50,Moderate,5-6,Rajaji National Park
+Spiritual,18-30,Cold,4-5,Badrinath
+Religious,51+,Moderate,6-7,Kedarnath
+Spiritual,51+,Hot,5-6,Rishikesh
+Adventure,18-30,Cold,2-3,Auli
+Spiritual,51+,Moderate,2-3,Haridwar
+Relaxation,18-30,Cold,2-3,Nainital
+Wildlife,31-50,Moderate,5-6,Jim Corbett
+Spiritual,31-50,Hot,2-3,Rishikesh
+Religious,31-50,Moderate,6-7,Haridwar
+Nature,51+,Moderate,4-5,Jim Corbett
+Relaxation,18-30,Cold,6-7,Nainital
+Adventure,51+,Cold,6-7,Mussoorie
+Relaxation,31-50,Cold,3-4,Nainital
+Nature,31-50,Moderate,3-4,Nainital
+Adventure,31-50,Cold,2-3,Rishikesh
+Spiritual,18-30,Cold,6-7,Badrinath
+Wildlife,18-30,Cold,6-7,Rajaji National Park
+Religious,18-30,Moderate,1-2,Badrinath
+Nature,18-30,Moderate,5-6,Valley of Flowers
+Religious,18-30,Moderate,2-3,Kedarnath
+Wildlife,18-30,Moderate,1-2,Jim Corbett
+Religious,18-30,Moderate,5-6,Haridwar
+Religious,51+,Moderate,5-6,Gangotri
+Spiritual,31-50,Hot,4-5,Haridwar
+Adventure,31-50,Moderate,6-7,Auli
+Adventure,51+,Moderate,1-2,Auli
+Relaxation,31-50,Hot,1-2,Almora
+Relaxation,51+,Hot,1-2,Almora
+Spiritual,31-50,Hot,4-5,Badrinath
+Wildlife,51+,Hot,4-5,Jim Corbett
+Religious,51+,Hot,4-5,Gangotri
+Religious,18-30,Cold,5-6,Gangotri
+Adventure,51+,Hot,3-4,Auli
+Nature,51+,Cold,4-5,Jim Corbett
+Relaxation,18-30,Moderate,5-6,Almora
+Religious,18-30,Hot,3-4,Haridwar
+Wildlife,31-50,Cold,2-3,Rajaji National Park
+Relaxation,31-50,Cold,2-3,Mussoorie
+Nature,51+,Hot,1-2,Nainital
+Adventure,31-50,Hot,6-7,Auli
+Adventure,51+,Cold,5-6,Rishikesh
+Religious,18-30,Moderate,6-7,Gangotri
+Relaxation,51+,Hot,6-7,Mussoorie
+Wildlife,18-30,Cold,4-5,Jim Corbett
+Relaxation,31-50,Moderate,5-6,Nainital
+Nature,18-30,Hot,1-2,Jim Corbett
+Relaxation,51+,Cold,6-7,Almora
+Nature,31-50,Hot,1-2,Auli
+Nature,51+,Hot,2-3,Jim Corbett
+Relaxation,51+,Hot,2-3,Almora
+Wildlife,51+,Moderate,6-7,Jim Corbett
+Wildlife,31-50,Hot,3-4,Jim Corbett
+Nature,31-50,Moderate,4-5,Jim Corbett
+Spiritual,31-50,Moderate,1-2,Badrinath
+Nature,18-30,Cold,2-3,Auli
+Spiritual,31-50,Moderate,5-6,Badrinath
+Relaxation,51+,Moderate,1-2,Mussoorie
+Relaxation,31-50,Moderate,4-5,Almora
+Adventure,31-50,Cold,4-5,Jim Corbett
+Spiritual,18-30,Hot,1-2,Haridwar
+Spiritual,51+,Hot,3-4,Rishikesh
+Relaxation,51+,Cold,1-2,Almora
+Wildlife,51+,Moderate,6-7,Rajaji National Park
+Relaxation,18-30,Hot,6-7,Almora
+Spiritual,18-30,Moderate,6-7,Rishikesh
+Religious,18-30,Hot,3-4,Gangotri
+Relaxation,18-30,Hot,3-4,Almora
+Adventure,31-50,Hot,5-6,Rishikesh
+Spiritual,51+,Cold,2-3,Rishikesh
+Spiritual,31-50,Cold,6-7,Badrinath
+Relaxation,51+,Moderate,2-3,Nainital
+Wildlife,51+,Moderate,5-6,Rajaji National Park
+Adventure,31-50,Moderate,2-3,Mussoorie
+Spiritual,31-50,Cold,3-4,Rishikesh
+Nature,51+,Cold,3-4,Nainital
+Adventure,18-30,Hot,4-5,Rishikesh
+Nature,18-30,Moderate,6-7,Jim Corbett
+Religious,18-30,Hot,6-7,Haridwar
+Spiritual,18-30,Hot,5-6,Haridwar
+Wildlife,18-30,Cold,5-6,Rajaji National Park
+Religious,51+,Moderate,2-3,Badrinath
+Relaxation,31-50,Hot,6-7,Nainital
+Spiritual,31-50,Moderate,6-7,Haridwar
+Nature,51+,Moderate,4-5,Valley of Flowers
+Nature,51+,Moderate,6-7,Valley of Flowers
+Spiritual,31-50,Cold,1-2,Badrinath
+Nature,18-30,Moderate,2-3,Auli
+Wildlife,51+,Hot,4-5,Jim Corbett
+Relaxation,31-50,Hot,4-5,Nainital
+Relaxation,31-50,Cold,3-4,Nainital
+Nature,31-50,Cold,4-5,Valley of Flowers
+Spiritual,51+,Hot,2-3,Rishikesh
+Relaxation,51+,Hot,1-2,Almora
+Wildlife,31-50,Moderate,5-6,Jim Corbett
+Religious,51+,Hot,1-2,Kedarnath
+Nature,51+,Cold,2-3,Nainital
+Religious,31-50,Moderate,1-2,Kedarnath
+Adventure,31-50,Moderate,5-6,Jim Corbett
+Wildlife,18-30,Hot,5-6,Rajaji National Park
+Nature,31-50,Moderate,2-3,Valley of Flowers
+Relaxation,18-30,Moderate,6-7,Mussoorie
+Religious,18-30,Cold,3-4,Haridwar
+Spiritual,31-50,Hot,3-4,Rishikesh
+Adventure,51+,Hot,6-7,Mussoorie
+Wildlife,51+,Moderate,1-2,Jim Corbett
+Wildlife,51+,Hot,5-6,Rajaji National Park
+Nature,31-50,Hot,3-4,Nainital
+Adventure,31-50,Moderate,1-2,Mussoorie
+Adventure,18-30,Hot,6-7,Jim Corbett
+Adventure,51+,Moderate,6-7,Rishikesh
+Spiritual,31-50,Cold,5-6,Badrinath
+Wildlife,31-50,Hot,6-7,Rajaji National Park
+Nature,51+,Hot,2-3,Jim Corbett
+Wildlife,51+,Moderate,3-4,Rajaji National Park
+Religious,18-30,Cold,4-5,Kedarnath
+Religious,31-50,Moderate,3-4,Haridwar
+Religious,31-50,Hot,6-7,Badrinath
+Wildlife,31-50,Moderate,3-4,Jim Corbett
+Spiritual,31-50,Hot,1-2,Badrinath
+Nature,51+,Hot,6-7,Nainital
+Relaxation,18-30,Cold,1-2,Mussoorie
+Adventure,18-30,Moderate,1-2,Rishikesh
+Spiritual,51+,Hot,2-3,Haridwar
+Nature,18-30,Hot,6-7,Nainital
+Wildlife,31-50,Moderate,3-4,Jim Corbett
+Relaxation,18-30,Moderate,2-3,Nainital
+Relaxation,31-50,Moderate,2-3,Nainital
+Religious,18-30,Moderate,5-6,Gangotri
+Nature,51+,Cold,4-5,Auli
+Spiritual,51+,Hot,1-2,Haridwar
+Relaxation,51+,Cold,4-5,Nainital
+Nature,51+,Moderate,3-4,Valley of Flowers
+Adventure,18-30,Moderate,6-7,Auli
+Adventure,31-50,Hot,3-4,Mussoorie
+Adventure,31-50,Hot,3-4,Auli
+Spiritual,18-30,Hot,4-5,Haridwar
+Nature,31-50,Moderate,5-6,Valley of Flowers
+Wildlife,31-50,Cold,6-7,Jim Corbett
+Religious,31-50,Cold,6-7,Gangotri
+Religious,51+,Moderate,3-4,Kedarnath
+Spiritual,51+,Moderate,6-7,Haridwar
+Adventure,31-50,Moderate,3-4,Auli
+Nature,31-50,Hot,3-4,Nainital
+Adventure,51+,Cold,6-7,Rishikesh
+Relaxation,31-50,Hot,2-3,Nainital
+Wildlife,18-30,Moderate,1-2,Rajaji National Park
+Relaxation,51+,Moderate,3-4,Nainital
+Relaxation,18-30,Moderate,2-3,Almora
+Spiritual,31-50,Cold,6-7,Haridwar
+Spiritual,31-50,Moderate,4-5,Haridwar
+Relaxation,18-30,Hot,6-7,Nainital
+Wildlife,31-50,Moderate,4-5,Rajaji National Park
+Relaxation,51+,Hot,5-6,Mussoorie
+Spiritual,31-50,Moderate,3-4,Rishikesh
+Adventure,18-30,Cold,6-7,Auli
+Nature,18-30,Cold,6-7,Valley of Flowers
+Adventure,18-30,Moderate,2-3,Rishikesh
+Adventure,31-50,Cold,6-7,Jim Corbett
+Relaxation,51+,Hot,5-6,Mussoorie
+Adventure,18-30,Cold,6-7,Mussoorie
+Religious,18-30,Moderate,2-3,Badrinath
+Adventure,18-30,Hot,3-4,Mussoorie
+Adventure,51+,Cold,2-3,Jim Corbett
+Relaxation,31-50,Hot,4-5,Nainital
+Spiritual,51+,Cold,5-6,Badrinath
+Relaxation,51+,Hot,1-2,Almora
+Spiritual,18-30,Moderate,3-4,Rishikesh
+Religious,18-30,Hot,2-3,Kedarnath
+Relaxation,18-30,Cold,2-3,Mussoorie
+Wildlife,51+,Moderate,2-3,Jim Corbett
+Relaxation,18-30,Moderate,1-2,Almora
+Relaxation,31-50,Hot,6-7,Mussoorie
+Religious,18-30,Cold,2-3,Haridwar
+Wildlife,18-30,Cold,5-6,Jim Corbett
+Spiritual,18-30,Moderate,6-7,Haridwar
+Nature,51+,Hot,6-7,Jim Corbett
+Relaxation,51+,Hot,3-4,Nainital
+Wildlife,18-30,Cold,1-2,Jim Corbett
+Relaxation,18-30,Hot,5-6,Mussoorie
+Spiritual,31-50,Cold,5-6,Rishikesh
+Wildlife,18-30,Moderate,1-2,Rajaji National Park
+Adventure,18-30,Cold,3-4,Auli
+Adventure,18-30,Hot,3-4,Auli
+Adventure,31-50,Cold,4-5,Mussoorie
+Spiritual,18-30,Cold,2-3,Badrinath
+Adventure,31-50,Cold,4-5,Mussoorie
+Wildlife,18-30,Cold,4-5,Jim Corbett
+Relaxation,31-50,Moderate,2-3,Almora
+Spiritual,31-50,Cold,3-4,Haridwar
+Wildlife,51+,Moderate,2-3,Rajaji National Park
+Wildlife,51+,Moderate,3-4,Jim Corbett
+Relaxation,18-30,Hot,6-7,Nainital
+Adventure,51+,Hot,5-6,Auli
+Relaxation,18-30,Cold,3-4,Mussoorie
+Relaxation,18-30,Moderate,6-7,Mussoorie
+Religious,51+,Moderate,1-2,Badrinath
+Spiritual,18-30,Hot,6-7,Haridwar
+Nature,31-50,Moderate,4-5,Auli
+Wildlife,51+,Cold,4-5,Jim Corbett
+Relaxation,51+,Cold,5-6,Almora
+Spiritual,18-30,Hot,3-4,Badrinath
+Relaxation,18-30,Hot,3-4,Almora
+Spiritual,31-50,Moderate,4-5,Rishikesh
+Religious,31-50,Hot,1-2,Badrinath
+Spiritual,51+,Cold,4-5,Badrinath
+Religious,18-30,Cold,6-7,Gangotri
+Spiritual,51+,Hot,2-3,Haridwar
+Spiritual,31-50,Moderate,5-6,Badrinath
+Nature,31-50,Cold,1-2,Nainital
+Nature,18-30,Moderate,4-5,Auli
+Adventure,18-30,Moderate,5-6,Jim Corbett
+Spiritual,31-50,Moderate,6-7,Haridwar
+Adventure,31-50,Hot,3-4,Auli
+Spiritual,31-50,Moderate,5-6,Haridwar
+Adventure,31-50,Cold,4-5,Mussoorie
+Adventure,31-50,Cold,3-4,Mussoorie
+Spiritual,51+,Moderate,2-3,Rishikesh
+Spiritual,51+,Hot,4-5,Rishikesh
+Relaxation,18-30,Moderate,1-2,Almora
+Religious,18-30,Hot,5-6,Badrinath
+Religious,51+,Hot,3-4,Haridwar
+Religious,18-30,Moderate,3-4,Badrinath
+Religious,51+,Cold,5-6,Badrinath
+Religious,31-50,Hot,6-7,Haridwar
+Spiritual,31-50,Moderate,4-5,Haridwar
+Relaxation,31-50,Moderate,6-7,Almora
+Nature,31-50,Moderate,2-3,Jim Corbett
+Adventure,51+,Cold,3-4,Auli
+Wildlife,31-50,Hot,5-6,Jim Corbett
+Spiritual,18-30,Moderate,3-4,Rishikesh
+Adventure,31-50,Hot,6-7,Mussoorie
+Religious,18-30,Cold,4-5,Haridwar
+Adventure,18-30,Hot,6-7,Rishikesh
+Relaxation,51+,Cold,1-2,Nainital
+Relaxation,18-30,Cold,3-4,Mussoorie
+Wildlife,51+,Cold,1-2,Rajaji National Park
+Relaxation,18-30,Cold,4-5,Nainital
+Religious,31-50,Hot,3-4,Badrinath
+Relaxation,51+,Cold,6-7,Almora
+Spiritual,31-50,Moderate,4-5,Rishikesh
+Spiritual,18-30,Hot,5-6,Rishikesh
+Relaxation,31-50,Hot,2-3,Nainital
+Spiritual,18-30,Moderate,1-2,Haridwar
+Nature,51+,Moderate,4-5,Valley of Flowers
+Religious,31-50,Moderate,3-4,Badrinath
+Religious,31-50,Hot,1-2,Badrinath
+Spiritual,31-50,Cold,5-6,Badrinath
+Nature,51+,Hot,4-5,Jim Corbett
+Adventure,18-30,Cold,5-6,Auli
+Adventure,18-30,Hot,1-2,Rishikesh
+Relaxation,51+,Moderate,2-3,Almora
+Relaxation,18-30,Hot,5-6,Nainital
+Relaxation,51+,Cold,4-5,Mussoorie
+Religious,31-50,Hot,2-3,Kedarnath
+Spiritual,51+,Hot,1-2,Badrinath
+Wildlife,31-50,Moderate,1-2,Rajaji National Park
+Religious,51+,Moderate,4-5,Badrinath
+Nature,18-30,Cold,5-6,Nainital
+Spiritual,51+,Hot,2-3,Haridwar
+Nature,31-50,Moderate,3-4,Auli
+Religious,51+,Hot,2-3,Haridwar
+Religious,51+,Hot,2-3,Gangotri
+Religious,18-30,Moderate,4-5,Haridwar
+Religious,18-30,Hot,4-5,Kedarnath
+Religious,51+,Cold,2-3,Badrinath
+Spiritual,51+,Cold,2-3,Badrinath
+Wildlife,51+,Moderate,2-3,Rajaji National Park
+Nature,18-30,Hot,4-5,Valley of Flowers
+Relaxation,51+,Hot,1-2,Mussoorie
+Nature,31-50,Moderate,4-5,Jim Corbett
+Relaxation,31-50,Hot,1-2,Nainital
+Spiritual,18-30,Cold,3-4,Badrinath
+Relaxation,31-50,Cold,5-6,Mussoorie
+Relaxation,51+,Cold,1-2,Nainital
+Adventure,31-50,Moderate,4-5,Rishikesh
+Nature,51+,Hot,1-2,Nainital
+Nature,18-30,Cold,5-6,Nainital
+Adventure,18-30,Cold,5-6,Rishikesh
+Adventure,18-30,Hot,4-5,Mussoorie
+Nature,51+,Cold,6-7,Auli
+Relaxation,51+,Moderate,4-5,Mussoorie
+Wildlife,51+,Hot,4-5,Rajaji National Park
+Adventure,18-30,Moderate,2-3,Rishikesh
+Adventure,31-50,Cold,1-2,Rishikesh
+Religious,31-50,Cold,3-4,Kedarnath
+Nature,31-50,Moderate,5-6,Valley of Flowers
+Spiritual,51+,Hot,4-5,Badrinath
+Spiritual,31-50,Cold,4-5,Badrinath
+Wildlife,31-50,Hot,5-6,Rajaji National Park
+Adventure,18-30,Cold,5-6,Jim Corbett
+Wildlife,18-30,Hot,6-7,Jim Corbett
+Spiritual,51+,Moderate,5-6,Badrinath
+Spiritual,51+,Moderate,4-5,Haridwar
+Nature,18-30,Cold,4-5,Auli
+Nature,18-30,Hot,1-2,Jim Corbett
+Relaxation,31-50,Moderate,2-3,Mussoorie
+Adventure,51+,Cold,4-5,Auli
+Nature,51+,Cold,6-7,Jim Corbett
+Adventure,18-30,Cold,2-3,Jim Corbett
+Wildlife,31-50,Cold,6-7,Rajaji National Park
+Spiritual,31-50,Moderate,3-4,Badrinath
+Relaxation,18-30,Moderate,6-7,Almora
+Nature,51+,Moderate,4-5,Auli
+Wildlife,31-50,Moderate,5-6,Jim Corbett
+Religious,31-50,Cold,5-6,Kedarnath
+Adventure,51+,Moderate,1-2,Rishikesh
+Religious,18-30,Cold,1-2,Kedarnath
+Wildlife,51+,Moderate,2-3,Rajaji National Park
+Religious,51+,Cold,5-6,Badrinath
+Adventure,51+,Cold,2-3,Auli
+Religious,31-50,Cold,3-4,Kedarnath
+Spiritual,31-50,Moderate,1-2,Haridwar
+Relaxation,18-30,Moderate,5-6,Almora
+Adventure,18-30,Moderate,2-3,Auli
+Nature,51+,Hot,5-6,Auli
+Nature,31-50,Cold,3-4,Valley of Flowers
+Wildlife,31-50,Hot,2-3,Rajaji National Park
+Relaxation,51+,Cold,6-7,Almora
+Adventure,51+,Cold,1-2,Jim Corbett
+Religious,18-30,Cold,5-6,Kedarnath
+Relaxation,51+,Moderate,3-4,Mussoorie
+Spiritual,31-50,Hot,6-7,Rishikesh
+Spiritual,18-30,Cold,3-4,Badrinath
+Relaxation,18-30,Hot,6-7,Nainital
+Religious,31-50,Cold,5-6,Haridwar
+Nature,31-50,Moderate,4-5,Nainital
+Wildlife,18-30,Moderate,3-4,Jim Corbett
+Religious,18-30,Cold,6-7,Badrinath
+Religious,18-30,Moderate,4-5,Kedarnath
+Spiritual,31-50,Hot,1-2,Rishikesh
+Religious,51+,Hot,4-5,Gangotri
+Nature,51+,Moderate,3-4,Valley of Flowers
+Nature,51+,Moderate,1-2,Auli
+Spiritual,18-30,Moderate,5-6,Haridwar
+Religious,31-50,Hot,1-2,Gangotri
+Adventure,31-50,Hot,5-6,Jim Corbett
+Spiritual,18-30,Moderate,3-4,Haridwar
+Wildlife,51+,Moderate,1-2,Rajaji National Park
+Relaxation,51+,Moderate,6-7,Mussoorie
+Wildlife,18-30,Moderate,2-3,Jim Corbett
+Spiritual,31-50,Moderate,1-2,Badrinath
+Relaxation,18-30,Hot,1-2,Almora
+Relaxation,18-30,Moderate,4-5,Nainital
+Nature,18-30,Moderate,6-7,Jim Corbett
+Nature,18-30,Moderate,2-3,Auli
+Spiritual,18-30,Hot,2-3,Badrinath
+Religious,51+,Moderate,3-4,Haridwar
+Religious,51+,Cold,2-3,Kedarnath
+Nature,51+,Moderate,2-3,Jim Corbett
+Spiritual,51+,Moderate,3-4,Rishikesh
+Wildlife,31-50,Moderate,1-2,Jim Corbett
+Spiritual,51+,Moderate,4-5,Haridwar
+Spiritual,51+,Moderate,2-3,Haridwar
+Nature,18-30,Cold,5-6,Auli
+Adventure,31-50,Cold,5-6,Jim Corbett
+Spiritual,31-50,Moderate,4-5,Rishikesh
+Adventure,31-50,Cold,6-7,Mussoorie
+Adventure,31-50,Cold,5-6,Mussoorie
+Nature,51+,Hot,5-6,Nainital
+Nature,51+,Moderate,6-7,Jim Corbett
+Spiritual,31-50,Cold,1-2,Badrinath
+Spiritual,51+,Hot,1-2,Rishikesh
+Nature,18-30,Cold,5-6,Auli
+Nature,18-30,Hot,3-4,Valley of Flowers
+Relaxation,18-30,Cold,3-4,Mussoorie
+Relaxation,18-30,Cold,2-3,Nainital
+Relaxation,18-30,Hot,3-4,Almora
+Relaxation,51+,Cold,4-5,Mussoorie
+Spiritual,18-30,Moderate,1-2,Rishikesh
+Nature,31-50,Hot,5-6,Auli
+Wildlife,18-30,Hot,1-2,Rajaji National Park
+Religious,51+,Hot,6-7,Kedarnath
+Wildlife,31-50,Moderate,5-6,Jim Corbett
+Nature,31-50,Moderate,1-2,Jim Corbett
+Spiritual,31-50,Moderate,6-7,Haridwar
+Adventure,31-50,Moderate,1-2,Auli
+Relaxation,51+,Hot,3-4,Nainital
+Religious,51+,Moderate,4-5,Kedarnath
+Spiritual,31-50,Cold,2-3,Badrinath
+Adventure,18-30,Hot,3-4,Rishikesh
+Spiritual,18-30,Cold,5-6,Badrinath
+Relaxation,31-50,Moderate,2-3,Almora
+Adventure,18-30,Cold,2-3,Mussoorie
+Wildlife,31-50,Moderate,6-7,Rajaji National Park
+Wildlife,31-50,Cold,2-3,Jim Corbett
+Spiritual,18-30,Moderate,3-4,Haridwar
+Spiritual,51+,Cold,5-6,Badrinath
+Spiritual,18-30,Cold,6-7,Haridwar
+Wildlife,31-50,Hot,1-2,Rajaji National Park
+Adventure,51+,Hot,5-6,Rishikesh
+Religious,31-50,Hot,2-3,Haridwar
+Wildlife,18-30,Cold,5-6,Rajaji National Park
+Relaxation,18-30,Moderate,4-5,Mussoorie
+Wildlife,31-50,Moderate,5-6,Jim Corbett
+Religious,18-30,Moderate,4-5,Haridwar
+Adventure,31-50,Hot,1-2,Rishikesh
+Religious,18-30,Moderate,4-5,Haridwar
+Religious,18-30,Hot,1-2,Badrinath
+Wildlife,51+,Hot,1-2,Rajaji National Park
+Religious,51+,Cold,1-2,Badrinath
+Relaxation,18-30,Moderate,5-6,Mussoorie
+Adventure,31-50,Moderate,1-2,Auli
+Relaxation,18-30,Hot,4-5,Almora
+Religious,51+,Moderate,1-2,Haridwar
+Adventure,31-50,Cold,4-5,Jim Corbett
+Wildlife,31-50,Cold,3-4,Rajaji National Park
+Spiritual,51+,Hot,5-6,Haridwar
+Relaxation,18-30,Hot,3-4,Nainital
+Spiritual,31-50,Cold,1-2,Rishikesh
+Nature,31-50,Moderate,5-6,Nainital
+Nature,31-50,Hot,2-3,Nainital
+Nature,51+,Moderate,4-5,Jim Corbett
+Spiritual,51+,Cold,4-5,Rishikesh
+Religious,18-30,Cold,5-6,Badrinath
+Spiritual,51+,Cold,1-2,Badrinath
+Wildlife,31-50,Cold,4-5,Rajaji National Park
+Relaxation,18-30,Cold,2-3,Nainital
+Relaxation,31-50,Cold,5-6,Mussoorie
+Adventure,51+,Cold,3-4,Mussoorie
+Adventure,51+,Hot,2-3,Mussoorie
+Religious,51+,Hot,4-5,Gangotri
+Relaxation,51+,Hot,3-4,Mussoorie
+Wildlife,18-30,Hot,4-5,Rajaji National Park
+Relaxation,31-50,Cold,4-5,Mussoorie
+Relaxation,31-50,Moderate,2-3,Almora
+Religious,31-50,Moderate,1-2,Badrinath
+Religious,18-30,Hot,1-2,Badrinath
+Adventure,51+,Moderate,6-7,Rishikesh
+Adventure,51+,Cold,1-2,Mussoorie
+Spiritual,18-30,Cold,4-5,Haridwar
+Relaxation,31-50,Moderate,2-3,Mussoorie
+Religious,51+,Hot,3-4,Haridwar
+Wildlife,18-30,Cold,6-7,Rajaji National Park
+Relaxation,51+,Cold,5-6,Nainital
+Adventure,51+,Cold,6-7,Mussoorie
+Adventure,31-50,Cold,5-6,Auli
+Wildlife,31-50,Cold,4-5,Jim Corbett
+Nature,31-50,Moderate,2-3,Nainital
+Wildlife,18-30,Cold,1-2,Rajaji National Park
+Wildlife,51+,Cold,4-5,Rajaji National Park
+Relaxation,31-50,Moderate,5-6,Almora
+Adventure,51+,Moderate,5-6,Rishikesh
+Wildlife,51+,Hot,2-3,Jim Corbett
+Religious,51+,Moderate,6-7,Haridwar
+Relaxation,18-30,Hot,5-6,Nainital
+Relaxation,51+,Cold,5-6,Mussoorie
+Adventure,31-50,Moderate,5-6,Jim Corbett
+Spiritual,31-50,Hot,3-4,Badrinath
+Adventure,51+,Hot,6-7,Rishikesh
+Adventure,18-30,Moderate,6-7,Jim Corbett
+Spiritual,18-30,Hot,4-5,Haridwar
+Adventure,51+,Cold,3-4,Rishikesh
+Spiritual,18-30,Moderate,5-6,Rishikesh
+Nature,18-30,Hot,1-2,Valley of Flowers
+Adventure,18-30,Moderate,4-5,Rishikesh
+Wildlife,51+,Moderate,4-5,Jim Corbett
+Religious,31-50,Cold,1-2,Haridwar
+Nature,18-30,Cold,2-3,Nainital
+Relaxation,51+,Hot,4-5,Mussoorie
+Religious,51+,Hot,3-4,Gangotri
+Spiritual,18-30,Hot,6-7,Haridwar
+Religious,18-30,Cold,3-4,Kedarnath
+Relaxation,51+,Moderate,4-5,Almora
+Adventure,18-30,Hot,6-7,Mussoorie
+Spiritual,18-30,Moderate,5-6,Haridwar
+Wildlife,51+,Moderate,4-5,Jim Corbett
+Adventure,31-50,Cold,5-6,Jim Corbett
+Wildlife,31-50,Hot,5-6,Jim Corbett
+Nature,18-30,Hot,1-2,Valley of Flowers
+Adventure,31-50,Hot,3-4,Auli
+Spiritual,31-50,Moderate,4-5,Haridwar
+Religious,18-30,Cold,3-4,Gangotri
+Relaxation,51+,Moderate,2-3,Mussoorie
+Nature,18-30,Cold,3-4,Jim Corbett
+Religious,31-50,Hot,5-6,Haridwar
+Nature,31-50,Moderate,6-7,Auli
+Wildlife,31-50,Moderate,3-4,Rajaji National Park
+Relaxation,51+,Cold,6-7,Nainital
+Nature,31-50,Moderate,6-7,Jim Corbett
+Wildlife,51+,Hot,2-3,Rajaji National Park
+Relaxation,31-50,Moderate,5-6,Nainital
+Adventure,31-50,Hot,1-2,Mussoorie
+Wildlife,51+,Hot,6-7,Jim Corbett
+Wildlife,51+,Moderate,1-2,Rajaji National Park
+Wildlife,51+,Cold,3-4,Jim Corbett
+Religious,31-50,Cold,4-5,Gangotri
+Religious,51+,Hot,5-6,Gangotri
+Nature,51+,Hot,3-4,Valley of Flowers
+Spiritual,51+,Moderate,4-5,Rishikesh
+Nature,51+,Cold,3-4,Nainital
+Spiritual,18-30,Hot,3-4,Badrinath
+Spiritual,51+,Cold,2-3,Haridwar
+Nature,18-30,Cold,3-4,Nainital
+Adventure,31-50,Moderate,4-5,Auli
+Relaxation,18-30,Moderate,6-7,Mussoorie
+Relaxation,51+,Hot,5-6,Nainital
+Wildlife,51+,Moderate,6-7,Jim Corbett
+Relaxation,51+,Hot,1-2,Almora
+Relaxation,18-30,Cold,6-7,Nainital
+Spiritual,51+,Cold,1-2,Haridwar
+Nature,18-30,Hot,1-2,Nainital
+Religious,18-30,Cold,4-5,Haridwar
+Nature,31-50,Cold,2-3,Auli
+Nature,31-50,Moderate,4-5,Jim Corbett
+Relaxation,51+,Cold,5-6,Nainital
+Nature,18-30,Cold,2-3,Jim Corbett
+Wildlife,18-30,Moderate,6-7,Rajaji National Park
+Adventure,51+,Cold,5-6,Auli
+Relaxation,31-50,Hot,6-7,Nainital
+Wildlife,18-30,Cold,2-3,Rajaji National Park
+Religious,51+,Cold,1-2,Kedarnath
+Adventure,18-30,Hot,6-7,Mussoorie
+Relaxation,51+,Cold,3-4,Almora
+Wildlife,51+,Cold,4-5,Jim Corbett
+Adventure,18-30,Hot,5-6,Auli
+Spiritual,18-30,Hot,4-5,Rishikesh
+Adventure,18-30,Moderate,1-2,Rishikesh
+Religious,18-30,Hot,6-7,Haridwar
+Wildlife,18-30,Moderate,2-3,Jim Corbett
+Relaxation,51+,Moderate,5-6,Mussoorie
+Spiritual,51+,Cold,4-5,Rishikesh
+Wildlife,18-30,Moderate,1-2,Rajaji National Park
+Nature,51+,Moderate,1-2,Auli
+Religious,18-30,Cold,4-5,Gangotri
+Adventure,51+,Cold,5-6,Rishikesh
+Adventure,51+,Cold,6-7,Jim Corbett
+Adventure,18-30,Hot,2-3,Rishikesh
+Religious,31-50,Cold,1-2,Gangotri
+Nature,51+,Moderate,2-3,Valley of Flowers
+Nature,31-50,Moderate,2-3,Auli
+Relaxation,18-30,Hot,2-3,Almora
+Religious,51+,Cold,4-5,Kedarnath
+Spiritual,51+,Moderate,1-2,Badrinath
+Relaxation,51+,Moderate,6-7,Nainital
+Nature,18-30,Moderate,4-5,Auli
+Adventure,18-30,Cold,6-7,Mussoorie
+Wildlife,51+,Cold,2-3,Rajaji National Park
+Relaxation,31-50,Hot,3-4,Almora
+Religious,31-50,Cold,3-4,Gangotri
+Relaxation,31-50,Cold,2-3,Almora
+Wildlife,18-30,Moderate,3-4,Rajaji National Park
+Spiritual,31-50,Cold,2-3,Rishikesh
+Spiritual,18-30,Cold,5-6,Badrinath
+Relaxation,31-50,Cold,4-5,Mussoorie
+Spiritual,31-50,Hot,3-4,Haridwar
+Nature,18-30,Hot,1-2,Auli
+Adventure,18-30,Cold,5-6,Mussoorie
+Wildlife,18-30,Moderate,6-7,Jim Corbett
+Spiritual,18-30,Hot,1-2,Haridwar
+Religious,51+,Hot,5-6,Haridwar
+Spiritual,31-50,Hot,5-6,Haridwar
+Wildlife,51+,Moderate,2-3,Jim Corbett
+Nature,51+,Moderate,1-2,Nainital
+Nature,18-30,Moderate,6-7,Auli
+Wildlife,31-50,Hot,6-7,Jim Corbett
+Spiritual,31-50,Hot,1-2,Rishikesh
+Spiritual,51+,Moderate,6-7,Badrinath
+Nature,51+,Hot,2-3,Jim Corbett
+Religious,18-30,Moderate,6-7,Badrinath
+Relaxation,51+,Cold,5-6,Mussoorie
+Nature,18-30,Moderate,4-5,Jim Corbett
+Spiritual,18-30,Hot,1-2,Haridwar
+Religious,51+,Hot,3-4,Badrinath
+Spiritual,18-30,Hot,6-7,Haridwar
+Wildlife,51+,Cold,2-3,Jim Corbett
+Relaxation,31-50,Moderate,5-6,Nainital
+Relaxation,51+,Hot,5-6,Nainital
+Relaxation,18-30,Cold,6-7,Nainital
+Spiritual,18-30,Moderate,5-6,Badrinath
+Religious,51+,Moderate,3-4,Kedarnath
+Relaxation,18-30,Cold,2-3,Almora
+Spiritual,51+,Hot,2-3,Rishikesh
+Nature,51+,Moderate,6-7,Jim Corbett
+Adventure,31-50,Moderate,5-6,Rishikesh
+Spiritual,51+,Cold,1-2,Badrinath
+Adventure,31-50,Cold,4-5,Mussoorie
+Spiritual,51+,Moderate,4-5,Badrinath
+Relaxation,18-30,Cold,1-2,Almora
+Adventure,18-30,Moderate,3-4,Mussoorie
+Relaxation,51+,Moderate,1-2,Nainital
+Nature,51+,Cold,1-2,Nainital
+Spiritual,18-30,Cold,4-5,Haridwar
+Nature,31-50,Hot,6-7,Auli
+Adventure,51+,Cold,1-2,Auli
+Nature,31-50,Hot,5-6,Valley of Flowers
+Religious,51+,Moderate,3-4,Badrinath
+Nature,18-30,Cold,6-7,Auli
+Adventure,18-30,Moderate,4-5,Rishikesh
+Spiritual,31-50,Hot,4-5,Haridwar
+Spiritual,31-50,Cold,5-6,Haridwar
+Religious,31-50,Cold,2-3,Kedarnath
+Spiritual,51+,Hot,5-6,Haridwar
+Adventure,18-30,Cold,4-5,Rishikesh
+Nature,51+,Cold,5-6,Valley of Flowers
+Religious,18-30,Cold,2-3,Kedarnath
+Adventure,31-50,Moderate,1-2,Mussoorie
+Religious,51+,Hot,2-3,Haridwar
+Adventure,51+,Hot,4-5,Auli
+Religious,31-50,Hot,2-3,Haridwar
+Relaxation,31-50,Hot,4-5,Almora
+Religious,18-30,Moderate,4-5,Gangotri
+Adventure,51+,Moderate,6-7,Mussoorie
+Religious,51+,Cold,3-4,Haridwar
+Wildlife,31-50,Moderate,4-5,Rajaji National Park
+Spiritual,18-30,Hot,1-2,Haridwar
+Relaxation,31-50,Hot,4-5,Mussoorie
+Religious,18-30,Hot,2-3,Gangotri
+Nature,18-30,Cold,3-4,Nainital
+Adventure,18-30,Cold,1-2,Auli
+Wildlife,51+,Cold,4-5,Jim Corbett
+Religious,18-30,Cold,1-2,Haridwar
+Wildlife,51+,Cold,5-6,Jim Corbett
+Religious,31-50,Hot,2-3,Kedarnath
+Wildlife,18-30,Moderate,1-2,Rajaji National Park
+Nature,31-50,Moderate,1-2,Auli
+Relaxation,18-30,Hot,1-2,Almora
+Spiritual,31-50,Hot,6-7,Badrinath
+Wildlife,51+,Hot,4-5,Rajaji National Park
+Adventure,51+,Cold,1-2,Jim Corbett
+Adventure,18-30,Hot,1-2,Jim Corbett
+Adventure,51+,Cold,1-2,Auli
+Religious,51+,Moderate,5-6,Kedarnath
+Relaxation,51+,Cold,3-4,Almora
+Adventure,51+,Moderate,5-6,Mussoorie
+Wildlife,51+,Hot,2-3,Rajaji National Park
+Religious,51+,Moderate,2-3,Badrinath
+Adventure,31-50,Cold,5-6,Rishikesh
+Relaxation,51+,Cold,1-2,Mussoorie
+Adventure,18-30,Hot,1-2,Mussoorie
+Nature,18-30,Cold,6-7,Jim Corbett
+Wildlife,18-30,Cold,6-7,Jim Corbett
+Nature,51+,Cold,5-6,Auli
+Adventure,51+,Cold,5-6,Auli
+Relaxation,18-30,Hot,1-2,Mussoorie
+Religious,18-30,Cold,1-2,Kedarnath
+Wildlife,31-50,Moderate,1-2,Rajaji National Park
+Relaxation,18-30,Hot,3-4,Nainital
+Religious,31-50,Hot,1-2,Kedarnath
+Spiritual,31-50,Hot,3-4,Haridwar
+Spiritual,31-50,Hot,5-6,Haridwar
+Wildlife,18-30,Moderate,3-4,Jim Corbett
+Adventure,31-50,Cold,4-5,Auli
+Spiritual,31-50,Hot,5-6,Rishikesh
+Spiritual,31-50,Hot,3-4,Badrinath
+Adventure,18-30,Cold,4-5,Mussoorie
+Relaxation,18-30,Moderate,5-6,Nainital
+Wildlife,51+,Hot,5-6,Jim Corbett
+Religious,51+,Hot,3-4,Badrinath
+Nature,51+,Hot,6-7,Auli
+Relaxation,31-50,Hot,5-6,Nainital
+Nature,18-30,Moderate,1-2,Nainital
+Adventure,31-50,Hot,2-3,Jim Corbett
+Nature,18-30,Moderate,6-7,Nainital
+Religious,31-50,Cold,1-2,Haridwar
+Wildlife,18-30,Cold,3-4,Rajaji National Park
+Adventure,51+,Hot,5-6,Rishikesh
+Relaxation,31-50,Cold,1-2,Almora
+Wildlife,51+,Cold,2-3,Rajaji National Park
+Religious,51+,Hot,1-2,Kedarnath
+Religious,31-50,Cold,1-2,Badrinath
+Religious,18-30,Hot,6-7,Haridwar
+Nature,51+,Moderate,1-2,Valley of Flowers
+Relaxation,18-30,Hot,3-4,Mussoorie
+Adventure,51+,Cold,2-3,Mussoorie
+Adventure,18-30,Moderate,4-5,Auli
+Nature,31-50,Cold,6-7,Jim Corbett
+Spiritual,18-30,Cold,5-6,Haridwar
+Nature,18-30,Cold,5-6,Auli
+Spiritual,51+,Hot,1-2,Haridwar
+Spiritual,18-30,Moderate,1-2,Haridwar
+Adventure,31-50,Cold,6-7,Auli
+Wildlife,18-30,Hot,5-6,Rajaji National Park
+Nature,51+,Hot,3-4,Auli
+Nature,51+,Moderate,1-2,Jim Corbett
+Nature,31-50,Cold,5-6,Valley of Flowers
+Wildlife,31-50,Moderate,3-4,Rajaji National Park
+Religious,31-50,Cold,5-6,Kedarnath
+Nature,51+,Hot,3-4,Jim Corbett
+Wildlife,51+,Hot,5-6,Rajaji National Park
+Wildlife,31-50,Moderate,4-5,Rajaji National Park
+Wildlife,18-30,Moderate,5-6,Rajaji National Park
+Spiritual,18-30,Moderate,5-6,Haridwar
+Adventure,51+,Hot,6-7,Auli
+Adventure,31-50,Moderate,1-2,Auli
+Spiritual,51+,Hot,3-4,Haridwar
+Adventure,18-30,Cold,3-4,Auli
+Relaxation,31-50,Moderate,4-5,Nainital
+Adventure,31-50,Hot,4-5,Rishikesh
+Adventure,51+,Cold,1-2,Jim Corbett
+Relaxation,18-30,Hot,5-6,Almora
+Wildlife,18-30,Cold,2-3,Rajaji National Park
+Nature,31-50,Moderate,1-2,Nainital
+Wildlife,51+,Hot,4-5,Rajaji National Park
+Religious,51+,Cold,6-7,Badrinath
+Religious,18-30,Cold,5-6,Haridwar
+Spiritual,31-50,Moderate,4-5,Rishikesh
+Adventure,31-50,Moderate,2-3,Mussoorie
+Wildlife,31-50,Hot,6-7,Rajaji National Park
+Spiritual,51+,Cold,6-7,Badrinath
+Nature,18-30,Hot,2-3,Nainital
+Religious,51+,Moderate,4-5,Gangotri
+Nature,51+,Hot,4-5,Nainital
+Relaxation,51+,Hot,2-3,Nainital
+Relaxation,31-50,Cold,6-7,Nainital
+Relaxation,51+,Cold,3-4,Nainital
+Adventure,51+,Moderate,3-4,Jim Corbett
+Religious,31-50,Moderate,6-7,Badrinath
+Nature,31-50,Hot,2-3,Nainital
+Adventure,18-30,Hot,5-6,Jim Corbett
+Nature,51+,Moderate,2-3,Valley of Flowers
+Religious,31-50,Hot,1-2,Haridwar
+Religious,51+,Cold,6-7,Haridwar
+Spiritual,31-50,Moderate,4-5,Rishikesh
+Religious,18-30,Cold,6-7,Kedarnath
+Spiritual,18-30,Cold,6-7,Rishikesh
+Adventure,31-50,Moderate,4-5,Rishikesh
+Wildlife,31-50,Moderate,1-2,Rajaji National Park
+Nature,18-30,Cold,3-4,Nainital
+Nature,18-30,Cold,3-4,Auli
+Religious,31-50,Cold,3-4,Haridwar
+Nature,51+,Moderate,3-4,Nainital
+Nature,51+,Cold,2-3,Jim Corbett
+Nature,18-30,Cold,2-3,Nainital
+Adventure,31-50,Hot,1-2,Auli
+Nature,18-30,Hot,1-2,Valley of Flowers
+Religious,18-30,Moderate,4-5,Kedarnath
+Nature,31-50,Hot,5-6,Nainital
+Wildlife,18-30,Cold,5-6,Rajaji National Park
+Religious,31-50,Hot,3-4,Gangotri
+Religious,18-30,Moderate,5-6,Haridwar
+Relaxation,31-50,Moderate,4-5,Mussoorie
+Relaxation,31-50,Cold,4-5,Nainital
+Relaxation,18-30,Hot,4-5,Mussoorie
+Spiritual,31-50,Hot,4-5,Haridwar
+Spiritual,51+,Moderate,5-6,Badrinath
+Religious,31-50,Cold,5-6,Badrinath
+Nature,31-50,Moderate,3-4,Auli
+Religious,18-30,Cold,1-2,Haridwar
+Wildlife,31-50,Moderate,1-2,Rajaji National Park
+Spiritual,18-30,Hot,2-3,Rishikesh
+Wildlife,18-30,Moderate,5-6,Rajaji National Park
+Nature,18-30,Hot,4-5,Nainital
+Adventure,51+,Hot,3-4,Auli
+Nature,18-30,Hot,5-6,Auli
+Relaxation,31-50,Cold,1-2,Almora
+Wildlife,31-50,Moderate,4-5,Rajaji National Park
+Spiritual,51+,Moderate,2-3,Rishikesh
+Adventure,31-50,Hot,2-3,Jim Corbett
+Religious,18-30,Moderate,3-4,Haridwar
+Wildlife,31-50,Cold,1-2,Rajaji National Park
+Adventure,51+,Hot,1-2,Rishikesh
+Adventure,18-30,Moderate,4-5,Mussoorie
+Adventure,18-30,Moderate,6-7,Auli
+Wildlife,31-50,Cold,6-7,Rajaji National Park
+Relaxation,51+,Moderate,3-4,Almora
+Nature,51+,Moderate,6-7,Valley of Flowers
+Spiritual,51+,Cold,1-2,Rishikesh
+Adventure,31-50,Cold,5-6,Auli
+Wildlife,31-50,Moderate,5-6,Rajaji National Park
+Adventure,31-50,Hot,1-2,Rishikesh
+Spiritual,18-30,Hot,2-3,Rishikesh
+Spiritual,51+,Cold,4-5,Haridwar
+Relaxation,31-50,Cold,5-6,Nainital
+Spiritual,18-30,Cold,3-4,Badrinath
+Wildlife,31-50,Cold,5-6,Jim Corbett
+Spiritual,18-30,Cold,3-4,Rishikesh
+Spiritual,51+,Hot,1-2,Rishikesh
+Religious,51+,Moderate,3-4,Badrinath
+Relaxation,31-50,Cold,2-3,Nainital
+Wildlife,51+,Hot,2-3,Jim Corbett
+Relaxation,31-50,Cold,5-6,Nainital
+Relaxation,18-30,Cold,2-3,Mussoorie
+Nature,31-50,Moderate,1-2,Nainital
+Religious,51+,Hot,2-3,Gangotri
+Wildlife,18-30,Hot,2-3,Jim Corbett
+Spiritual,51+,Cold,3-4,Badrinath
+Nature,51+,Hot,1-2,Nainital
+Adventure,51+,Cold,4-5,Rishikesh
+Wildlife,31-50,Moderate,3-4,Jim Corbett
+Nature,51+,Moderate,6-7,Nainital
+Relaxation,51+,Hot,4-5,Mussoorie
+Adventure,51+,Cold,3-4,Jim Corbett
+Nature,31-50,Hot,3-4,Valley of Flowers
+Wildlife,31-50,Moderate,3-4,Rajaji National Park
+Nature,51+,Cold,2-3,Nainital
+Religious,18-30,Hot,4-5,Badrinath
+Religious,31-50,Cold,1-2,Kedarnath
+Wildlife,18-30,Hot,1-2,Jim Corbett
+Relaxation,31-50,Hot,2-3,Almora
+Nature,51+,Hot,5-6,Valley of Flowers
+Nature,18-30,Cold,4-5,Valley of Flowers
+Wildlife,31-50,Cold,6-7,Jim Corbett
+Religious,18-30,Moderate,5-6,Kedarnath
+Wildlife,31-50,Moderate,3-4,Jim Corbett
+Spiritual,31-50,Moderate,5-6,Badrinath
+Nature,31-50,Hot,3-4,Nainital
+Relaxation,31-50,Moderate,4-5,Mussoorie
+Religious,18-30,Cold,2-3,Gangotri
+Adventure,51+,Hot,6-7,Rishikesh
+Spiritual,18-30,Moderate,3-4,Rishikesh
+Spiritual,31-50,Cold,6-7,Rishikesh
+Religious,31-50,Hot,2-3,Haridwar
+Relaxation,18-30,Cold,4-5,Almora
+Nature,31-50,Hot,2-3,Jim Corbett
+Relaxation,31-50,Cold,4-5,Mussoorie
+Spiritual,31-50,Moderate,5-6,Rishikesh
+Religious,18-30,Hot,4-5,Kedarnath
+Spiritual,31-50,Hot,5-6,Rishikesh
+Wildlife,18-30,Moderate,2-3,Jim Corbett
+Relaxation,31-50,Hot,5-6,Almora
+Nature,51+,Moderate,3-4,Nainital
+Wildlife,18-30,Hot,1-2,Rajaji National Park
+Nature,51+,Moderate,1-2,Auli
+Spiritual,51+,Cold,1-2,Badrinath
+Relaxation,18-30,Moderate,1-2,Nainital
+Nature,51+,Hot,4-5,Valley of Flowers
+Religious,31-50,Hot,2-3,Kedarnath
+Relaxation,18-30,Moderate,1-2,Nainital
+Wildlife,51+,Cold,5-6,Jim Corbett
+Adventure,18-30,Hot,1-2,Jim Corbett
+Nature,31-50,Moderate,6-7,Nainital
+Religious,51+,Cold,3-4,Badrinath
+Nature,18-30,Hot,1-2,Jim Corbett
+Spiritual,31-50,Moderate,4-5,Badrinath
+Spiritual,31-50,Hot,2-3,Haridwar
+Relaxation,51+,Moderate,5-6,Mussoorie
+Wildlife,51+,Moderate,1-2,Jim Corbett
+Adventure,31-50,Hot,2-3,Rishikesh
+Relaxation,51+,Cold,3-4,Almora
+Adventure,31-50,Moderate,2-3,Mussoorie
+Religious,31-50,Moderate,1-2,Kedarnath
+Nature,51+,Moderate,4-5,Jim Corbett
+Religious,18-30,Cold,1-2,Haridwar
+Wildlife,31-50,Hot,5-6,Rajaji National Park
+Wildlife,31-50,Hot,3-4,Rajaji National Park
+Relaxation,31-50,Hot,4-5,Mussoorie
+Wildlife,18-30,Cold,2-3,Jim Corbett
+Wildlife,31-50,Hot,6-7,Jim Corbett
+Relaxation,18-30,Cold,2-3,Almora
+Nature,31-50,Hot,5-6,Auli
+Religious,18-30,Moderate,5-6,Badrinath
+Wildlife,31-50,Cold,5-6,Rajaji National Park
+Spiritual,31-50,Moderate,1-2,Haridwar
+Nature,18-30,Cold,3-4,Jim Corbett
+Wildlife,31-50,Moderate,1-2,Rajaji National Park
+Religious,31-50,Cold,3-4,Gangotri
+Relaxation,31-50,Cold,6-7,Almora
+Spiritual,31-50,Cold,2-3,Haridwar
+Adventure,18-30,Hot,3-4,Mussoorie
+Relaxation,31-50,Moderate,2-3,Almora
+Nature,31-50,Hot,1-2,Valley of Flowers
+Religious,18-30,Cold,6-7,Kedarnath
+Wildlife,31-50,Moderate,4-5,Jim Corbett
+Nature,31-50,Hot,6-7,Nainital
+Spiritual,18-30,Cold,2-3,Haridwar
+Wildlife,18-30,Moderate,5-6,Jim Corbett
+Nature,31-50,Moderate,6-7,Valley of Flowers
+Relaxation,31-50,Moderate,3-4,Nainital
+Wildlife,31-50,Hot,5-6,Jim Corbett
+Relaxation,51+,Moderate,2-3,Almora
+Spiritual,18-30,Cold,6-7,Rishikesh
+Adventure,31-50,Hot,4-5,Rishikesh
+Religious,31-50,Cold,1-2,Haridwar
+Wildlife,51+,Cold,6-7,Rajaji National Park
+Spiritual,18-30,Moderate,2-3,Haridwar
+Wildlife,18-30,Moderate,6-7,Rajaji National Park
+Wildlife,51+,Cold,5-6,Rajaji National Park
+Wildlife,51+,Hot,2-3,Jim Corbett
+Spiritual,51+,Moderate,1-2,Haridwar
+Spiritual,31-50,Hot,1-2,Badrinath
+Nature,18-30,Cold,1-2,Jim Corbett
+Adventure,18-30,Moderate,6-7,Mussoorie
+Religious,31-50,Hot,4-5,Haridwar
+Relaxation,51+,Moderate,6-7,Almora
+Religious,51+,Cold,3-4,Kedarnath
+Spiritual,51+,Cold,2-3,Haridwar
+Spiritual,51+,Moderate,1-2,Badrinath
+Wildlife,31-50,Hot,1-2,Rajaji National Park
+Wildlife,31-50,Cold,2-3,Rajaji National Park
+Religious,51+,Cold,4-5,Badrinath
+Adventure,51+,Moderate,6-7,Jim Corbett
+Adventure,18-30,Cold,1-2,Rishikesh
+Wildlife,51+,Moderate,5-6,Jim Corbett
+Spiritual,31-50,Moderate,2-3,Haridwar
+Relaxation,18-30,Cold,1-2,Almora
+Relaxation,51+,Moderate,4-5,Nainital
+Relaxation,31-50,Moderate,3-4,Almora
+Spiritual,18-30,Cold,2-3,Haridwar
+Wildlife,18-30,Hot,6-7,Rajaji National Park
+Spiritual,18-30,Cold,3-4,Badrinath
+Adventure,51+,Cold,5-6,Mussoorie
+Spiritual,31-50,Cold,6-7,Rishikesh
+Spiritual,31-50,Cold,6-7,Badrinath
+Adventure,18-30,Hot,4-5,Mussoorie
+Adventure,18-30,Moderate,4-5,Jim Corbett
+Wildlife,18-30,Cold,3-4,Jim Corbett
+Wildlife,31-50,Cold,4-5,Rajaji National Park
+Adventure,31-50,Cold,4-5,Auli
+Religious,18-30,Cold,5-6,Badrinath
+Religious,18-30,Hot,5-6,Gangotri
+Relaxation,31-50,Moderate,3-4,Nainital
+Nature,51+,Hot,5-6,Jim Corbett
+Nature,18-30,Cold,6-7,Valley of Flowers
+Spiritual,18-30,Hot,1-2,Rishikesh
+Relaxation,51+,Hot,5-6,Nainital
+Adventure,51+,Cold,4-5,Mussoorie
+Nature,51+,Moderate,1-2,Auli
+Adventure,18-30,Hot,6-7,Mussoorie
+Spiritual,31-50,Moderate,2-3,Badrinath
+Spiritual,31-50,Hot,4-5,Rishikesh
+Adventure,18-30,Cold,2-3,Mussoorie
+Spiritual,31-50,Hot,2-3,Rishikesh
+Nature,31-50,Moderate,2-3,Jim Corbett
+Religious,18-30,Cold,5-6,Badrinath
+Religious,18-30,Hot,5-6,Kedarnath
+Religious,18-30,Moderate,2-3,Haridwar
+Nature,31-50,Hot,5-6,Nainital
+Religious,18-30,Cold,3-4,Haridwar
+Nature,51+,Hot,3-4,Auli
+Adventure,51+,Cold,1-2,Jim Corbett
+Adventure,18-30,Moderate,6-7,Mussoorie
+Nature,31-50,Moderate,6-7,Nainital
+Adventure,31-50,Moderate,6-7,Jim Corbett
+Nature,51+,Cold,4-5,Nainital
+Spiritual,18-30,Moderate,3-4,Badrinath
+Nature,18-30,Hot,1-2,Valley of Flowers
+Relaxation,51+,Hot,1-2,Almora
+Religious,31-50,Hot,3-4,Kedarnath
+Adventure,31-50,Cold,3-4,Jim Corbett
+Relaxation,31-50,Cold,4-5,Mussoorie
+Nature,31-50,Moderate,4-5,Auli
+Nature,31-50,Moderate,3-4,Nainital
+Religious,18-30,Cold,1-2,Badrinath
+Relaxation,31-50,Moderate,2-3,Almora
+Nature,51+,Cold,1-2,Valley of Flowers
+Relaxation,31-50,Cold,1-2,Mussoorie
+Relaxation,18-30,Moderate,5-6,Mussoorie
+Relaxation,31-50,Cold,5-6,Mussoorie
+Adventure,18-30,Hot,3-4,Auli
+Religious,51+,Moderate,6-7,Gangotri
+Nature,18-30,Cold,4-5,Auli
+Wildlife,18-30,Hot,2-3,Jim Corbett
+Relaxation,51+,Hot,5-6,Almora
+Nature,31-50,Cold,3-4,Jim Corbett
+Spiritual,18-30,Cold,6-7,Haridwar
+Wildlife,18-30,Moderate,5-6,Rajaji National Park
+Religious,51+,Cold,4-5,Gangotri
+Religious,18-30,Hot,5-6,Haridwar
+Spiritual,31-50,Moderate,3-4,Rishikesh
+Religious,18-30,Hot,2-3,Haridwar
+Nature,18-30,Hot,1-2,Nainital
+Wildlife,31-50,Cold,1-2,Jim Corbett
+Relaxation,18-30,Cold,4-5,Mussoorie
+Nature,18-30,Cold,5-6,Nainital
+Religious,18-30,Moderate,2-3,Badrinath
+Spiritual,31-50,Moderate,4-5,Haridwar
+Relaxation,31-50,Moderate,2-3,Nainital
+Relaxation,18-30,Hot,2-3,Nainital
+Wildlife,31-50,Moderate,6-7,Rajaji National Park
+Adventure,31-50,Moderate,6-7,Jim Corbett
+Nature,31-50,Moderate,1-2,Auli
+Wildlife,51+,Cold,5-6,Rajaji National Park
+Adventure,51+,Hot,1-2,Rishikesh
+Wildlife,18-30,Moderate,5-6,Rajaji National Park
+Nature,18-30,Cold,2-3,Valley of Flowers
+Wildlife,18-30,Hot,6-7,Rajaji National Park
+Wildlife,31-50,Hot,2-3,Jim Corbett
+Adventure,51+,Moderate,3-4,Mussoorie
+Relaxation,51+,Moderate,6-7,Mussoorie
+Spiritual,18-30,Moderate,6-7,Rishikesh
+Adventure,18-30,Moderate,6-7,Auli
+Relaxation,18-30,Moderate,3-4,Almora
+Adventure,31-50,Cold,5-6,Mussoorie
+Religious,18-30,Cold,1-2,Gangotri
+Religious,51+,Cold,3-4,Badrinath
+Nature,18-30,Hot,3-4,Auli
+Wildlife,51+,Hot,2-3,Jim Corbett
+Spiritual,51+,Hot,4-5,Rishikesh
+Religious,18-30,Hot,1-2,Haridwar
+Nature,51+,Hot,5-6,Jim Corbett
+Wildlife,18-30,Hot,2-3,Rajaji National Park
+Spiritual,31-50,Hot,1-2,Haridwar
+Adventure,51+,Moderate,1-2,Rishikesh
+Spiritual,51+,Hot,2-3,Rishikesh
+Nature,51+,Cold,2-3,Jim Corbett
+Religious,18-30,Hot,2-3,Kedarnath
+Relaxation,18-30,Hot,4-5,Almora
+Religious,18-30,Cold,3-4,Kedarnath
+Religious,51+,Hot,2-3,Kedarnath
+Spiritual,51+,Cold,3-4,Haridwar
+Relaxation,31-50,Hot,5-6,Nainital
+Relaxation,31-50,Cold,2-3,Almora
+Relaxation,18-30,Cold,6-7,Mussoorie
+Religious,18-30,Moderate,6-7,Gangotri
+Spiritual,51+,Hot,5-6,Badrinath
+Relaxation,31-50,Cold,4-5,Almora
+Spiritual,31-50,Hot,5-6,Rishikesh
+Relaxation,31-50,Moderate,1-2,Mussoorie
+Adventure,18-30,Moderate,2-3,Rishikesh
+Wildlife,31-50,Moderate,2-3,Rajaji National Park
+Nature,18-30,Moderate,6-7,Jim Corbett
+Relaxation,51+,Moderate,1-2,Nainital
+Spiritual,18-30,Hot,3-4,Haridwar
+Spiritual,31-50,Cold,5-6,Badrinath
+Religious,31-50,Hot,4-5,Kedarnath
+Wildlife,31-50,Hot,3-4,Jim Corbett
+Nature,31-50,Hot,3-4,Jim Corbett
+Nature,31-50,Hot,3-4,Auli
+Spiritual,18-30,Hot,1-2,Haridwar
+Nature,51+,Cold,2-3,Nainital
+Spiritual,31-50,Cold,2-3,Rishikesh
+Adventure,31-50,Moderate,1-2,Mussoorie
+Adventure,18-30,Cold,6-7,Rishikesh
+Adventure,31-50,Cold,4-5,Mussoorie
+Religious,18-30,Hot,3-4,Gangotri
+Nature,18-30,Hot,2-3,Nainital
+Religious,51+,Cold,3-4,Gangotri
+Adventure,51+,Cold,6-7,Mussoorie
+Nature,18-30,Cold,4-5,Nainital
+Spiritual,31-50,Moderate,1-2,Badrinath
+Relaxation,18-30,Hot,4-5,Almora
+Nature,18-30,Cold,4-5,Nainital
+Nature,18-30,Cold,5-6,Valley of Flowers
+Religious,31-50,Cold,3-4,Haridwar
+Religious,18-30,Moderate,3-4,Badrinath
+Nature,31-50,Moderate,4-5,Nainital
+Adventure,18-30,Moderate,5-6,Rishikesh
+Nature,51+,Moderate,3-4,Auli
+Nature,18-30,Moderate,2-3,Jim Corbett
+Wildlife,18-30,Cold,1-2,Jim Corbett
+Religious,18-30,Cold,2-3,Gangotri
+Relaxation,51+,Moderate,4-5,Almora
+Wildlife,31-50,Moderate,4-5,Rajaji National Park
+Nature,51+,Moderate,5-6,Nainital
+Religious,31-50,Cold,2-3,Badrinath
+Relaxation,51+,Hot,1-2,Almora
+Relaxation,51+,Moderate,6-7,Almora
+Wildlife,31-50,Hot,3-4,Jim Corbett
+Religious,18-30,Moderate,3-4,Badrinath
+Adventure,31-50,Moderate,4-5,Rishikesh
+Spiritual,18-30,Moderate,4-5,Rishikesh
+Spiritual,51+,Moderate,2-3,Rishikesh
+Nature,18-30,Moderate,3-4,Valley of Flowers
+Wildlife,31-50,Moderate,5-6,Rajaji National Park
+Adventure,51+,Hot,1-2,Auli
+Adventure,31-50,Hot,2-3,Jim Corbett
+Nature,31-50,Moderate,4-5,Valley of Flowers
+Religious,18-30,Cold,1-2,Haridwar
+Relaxation,31-50,Hot,2-3,Almora
+Religious,31-50,Moderate,1-2,Haridwar
+Spiritual,18-30,Cold,5-6,Badrinath
+Nature,51+,Hot,6-7,Jim Corbett
+Spiritual,18-30,Cold,2-3,Haridwar
+Nature,18-30,Cold,6-7,Jim Corbett
+Adventure,31-50,Cold,2-3,Rishikesh
+Religious,51+,Moderate,6-7,Badrinath
+Adventure,51+,Moderate,1-2,Rishikesh
+Nature,31-50,Cold,3-4,Jim Corbett
+Nature,51+,Cold,6-7,Valley of Flowers
+Nature,31-50,Moderate,6-7,Jim Corbett
+Relaxation,18-30,Moderate,5-6,Nainital
+Religious,51+,Hot,2-3,Kedarnath
+Adventure,31-50,Cold,3-4,Rishikesh
+Wildlife,51+,Cold,5-6,Rajaji National Park
+Relaxation,31-50,Hot,5-6,Almora
+Nature,18-30,Cold,6-7,Jim Corbett
+Religious,31-50,Moderate,2-3,Gangotri
+Nature,51+,Cold,1-2,Valley of Flowers
+Nature,31-50,Moderate,4-5,Nainital
+Relaxation,18-30,Hot,2-3,Mussoorie
+Adventure,51+,Hot,5-6,Mussoorie
+Spiritual,18-30,Hot,3-4,Badrinath
+Religious,18-30,Moderate,4-5,Haridwar
+Religious,31-50,Moderate,2-3,Gangotri
+Wildlife,31-50,Hot,2-3,Rajaji National Park
+Relaxation,51+,Cold,2-3,Mussoorie
+Spiritual,18-30,Hot,2-3,Badrinath
+Spiritual,51+,Hot,5-6,Badrinath
+Religious,18-30,Moderate,6-7,Haridwar
+Spiritual,18-30,Cold,5-6,Badrinath
+Adventure,31-50,Cold,4-5,Auli
+Nature,51+,Moderate,4-5,Auli
+Adventure,18-30,Cold,3-4,Jim Corbett
+Spiritual,18-30,Cold,4-5,Rishikesh
+Religious,18-30,Cold,4-5,Kedarnath
+Religious,51+,Moderate,1-2,Kedarnath
+Wildlife,51+,Cold,3-4,Jim Corbett
+Religious,18-30,Hot,6-7,Badrinath
+Nature,51+,Hot,1-2,Jim Corbett
+Nature,31-50,Hot,5-6,Auli
+Religious,31-50,Moderate,1-2,Gangotri
+Adventure,18-30,Hot,6-7,Auli
+Nature,31-50,Moderate,3-4,Valley of Flowers
+Wildlife,18-30,Hot,4-5,Rajaji National Park
+Relaxation,18-30,Hot,2-3,Almora
+Nature,31-50,Hot,3-4,Auli
+Wildlife,51+,Hot,6-7,Jim Corbett
+Relaxation,51+,Cold,5-6,Nainital
+Relaxation,31-50,Hot,5-6,Almora
+Adventure,18-30,Hot,3-4,Mussoorie
+Religious,18-30,Moderate,2-3,Haridwar
+Adventure,18-30,Moderate,4-5,Jim Corbett
+Religious,18-30,Moderate,4-5,Haridwar
+Relaxation,51+,Moderate,6-7,Almora
+Wildlife,18-30,Cold,2-3,Jim Corbett
+Religious,51+,Cold,2-3,Gangotri
+Adventure,31-50,Moderate,6-7,Jim Corbett
+Adventure,18-30,Cold,1-2,Auli
+Wildlife,51+,Moderate,2-3,Rajaji National Park
+Adventure,18-30,Hot,5-6,Auli
+Adventure,51+,Hot,2-3,Rishikesh
+Spiritual,31-50,Moderate,5-6,Haridwar
+Wildlife,18-30,Hot,3-4,Rajaji National Park
+Spiritual,18-30,Cold,1-2,Rishikesh
+Wildlife,51+,Moderate,5-6,Rajaji National Park
+Adventure,31-50,Moderate,3-4,Rishikesh
+Relaxation,51+,Hot,4-5,Mussoorie
+Spiritual,31-50,Cold,6-7,Haridwar
+Adventure,51+,Hot,2-3,Auli
+Relaxation,31-50,Moderate,4-5,Nainital
+Relaxation,51+,Moderate,1-2,Nainital
+Relaxation,31-50,Cold,5-6,Mussoorie
+Nature,51+,Cold,2-3,Nainital
+Spiritual,51+,Hot,2-3,Badrinath
+Nature,18-30,Moderate,1-2,Valley of Flowers
+Spiritual,18-30,Cold,6-7,Haridwar
+Adventure,51+,Cold,1-2,Rishikesh
+Religious,18-30,Cold,1-2,Badrinath
+Wildlife,31-50,Moderate,4-5,Rajaji National Park
+Adventure,18-30,Hot,6-7,Rishikesh
+Adventure,31-50,Moderate,4-5,Jim Corbett
+Spiritual,18-30,Moderate,4-5,Haridwar
+Relaxation,51+,Hot,3-4,Mussoorie
+Wildlife,51+,Hot,5-6,Rajaji National Park
+Adventure,31-50,Moderate,5-6,Mussoorie
+Relaxation,31-50,Moderate,4-5,Mussoorie
+Relaxation,31-50,Moderate,6-7,Almora
+Adventure,51+,Hot,2-3,Auli
+Relaxation,51+,Cold,6-7,Mussoorie
+Religious,31-50,Moderate,3-4,Gangotri
+Adventure,51+,Moderate,3-4,Mussoorie
+Religious,31-50,Moderate,5-6,Badrinath
+Spiritual,51+,Cold,1-2,Haridwar
+Relaxation,31-50,Moderate,6-7,Mussoorie
+Relaxation,31-50,Cold,6-7,Almora
+Relaxation,31-50,Cold,1-2,Nainital
+Relaxation,18-30,Moderate,2-3,Mussoorie
+Wildlife,18-30,Hot,3-4,Jim Corbett
+Relaxation,51+,Cold,1-2,Almora
+Adventure,18-30,Cold,1-2,Rishikesh
+Relaxation,18-30,Hot,3-4,Almora
+Religious,31-50,Hot,3-4,Badrinath
+Adventure,18-30,Hot,1-2,Auli
+Wildlife,31-50,Moderate,3-4,Rajaji National Park
+Relaxation,31-50,Cold,1-2,Almora
+Nature,31-50,Moderate,6-7,Nainital
+Relaxation,51+,Hot,2-3,Mussoorie
+Spiritual,18-30,Moderate,6-7,Haridwar
+Wildlife,51+,Moderate,2-3,Rajaji National Park
+Spiritual,51+,Hot,4-5,Rishikesh
+Spiritual,31-50,Hot,6-7,Badrinath
+Relaxation,51+,Moderate,2-3,Nainital
+Wildlife,31-50,Hot,3-4,Jim Corbett
+Adventure,51+,Moderate,4-5,Auli
+Nature,18-30,Moderate,4-5,Auli
+Adventure,51+,Cold,1-2,Jim Corbett
+Adventure,18-30,Moderate,1-2,Auli
+Nature,18-30,Cold,1-2,Nainital
+Relaxation,18-30,Hot,4-5,Almora
+Relaxation,18-30,Cold,2-3,Almora
+Religious,51+,Moderate,3-4,Badrinath
+Nature,18-30,Moderate,3-4,Auli
+Adventure,51+,Cold,2-3,Auli
+Spiritual,31-50,Hot,3-4,Haridwar
+Relaxation,18-30,Hot,3-4,Mussoorie
+Wildlife,51+,Moderate,2-3,Jim Corbett
+Nature,18-30,Moderate,6-7,Jim Corbett
+Adventure,31-50,Cold,4-5,Auli
+Nature,18-30,Hot,1-2,Jim Corbett
+Religious,51+,Moderate,4-5,Badrinath
+Wildlife,31-50,Hot,5-6,Rajaji National Park
+Spiritual,31-50,Hot,3-4,Haridwar
+Adventure,18-30,Hot,6-7,Mussoorie
+Relaxation,51+,Cold,3-4,Mussoorie
+Wildlife,31-50,Cold,6-7,Rajaji National Park
+Spiritual,51+,Hot,2-3,Haridwar
+Relaxation,31-50,Hot,4-5,Mussoorie
+Spiritual,31-50,Moderate,2-3,Badrinath
+Adventure,31-50,Cold,4-5,Auli
+Adventure,18-30,Cold,5-6,Mussoorie
+Adventure,31-50,Cold,6-7,Auli
+Adventure,51+,Moderate,6-7,Jim Corbett
+Religious,31-50,Cold,4-5,Haridwar
+Spiritual,31-50,Cold,1-2,Rishikesh
+Wildlife,31-50,Cold,3-4,Rajaji National Park
+Nature,18-30,Cold,1-2,Valley of Flowers
+Spiritual,51+,Cold,3-4,Haridwar
+Religious,51+,Hot,2-3,Gangotri
+Spiritual,51+,Hot,2-3,Haridwar
+Adventure,51+,Moderate,4-5,Mussoorie
+Wildlife,31-50,Hot,4-5,Rajaji National Park
+Nature,18-30,Moderate,5-6,Auli
+Wildlife,51+,Cold,6-7,Jim Corbett
+Nature,31-50,Moderate,1-2,Jim Corbett
+Adventure,18-30,Moderate,2-3,Rishikesh
+Relaxation,18-30,Moderate,6-7,Mussoorie
+Religious,31-50,Cold,4-5,Haridwar
+Nature,51+,Cold,2-3,Valley of Flowers
+Religious,51+,Cold,4-5,Haridwar
+Adventure,31-50,Cold,6-7,Rishikesh
+Spiritual,31-50,Hot,3-4,Haridwar
+Relaxation,31-50,Moderate,5-6,Nainital
+Religious,51+,Hot,5-6,Gangotri
+Spiritual,51+,Moderate,3-4,Rishikesh
+Nature,18-30,Moderate,5-6,Auli
+Relaxation,51+,Hot,5-6,Almora
+Wildlife,18-30,Moderate,2-3,Rajaji National Park
+Spiritual,31-50,Moderate,6-7,Rishikesh
+Adventure,31-50,Hot,5-6,Auli
+Adventure,31-50,Moderate,5-6,Jim Corbett
+Spiritual,18-30,Hot,6-7,Haridwar
+Nature,18-30,Moderate,3-4,Valley of Flowers
+Adventure,51+,Hot,1-2,Jim Corbett
+Adventure,51+,Cold,1-2,Jim Corbett
+Wildlife,31-50,Cold,5-6,Jim Corbett
+Spiritual,18-30,Cold,4-5,Rishikesh
+Spiritual,18-30,Moderate,6-7,Rishikesh
+Adventure,18-30,Moderate,4-5,Mussoorie
+Spiritual,18-30,Cold,6-7,Haridwar
+Spiritual,18-30,Cold,2-3,Rishikesh
+Adventure,31-50,Hot,1-2,Mussoorie
+Relaxation,51+,Moderate,2-3,Almora
+Spiritual,31-50,Cold,4-5,Rishikesh
+Nature,51+,Moderate,2-3,Valley of Flowers
+Spiritual,18-30,Moderate,2-3,Badrinath
+Spiritual,18-30,Cold,6-7,Haridwar
+Adventure,51+,Hot,4-5,Rishikesh
+Religious,51+,Cold,6-7,Kedarnath
+Adventure,31-50,Moderate,6-7,Auli
+Religious,18-30,Cold,2-3,Haridwar
+Spiritual,51+,Hot,4-5,Rishikesh
+Religious,18-30,Moderate,3-4,Gangotri
+Religious,51+,Hot,6-7,Haridwar
+Nature,31-50,Hot,2-3,Nainital
+Wildlife,18-30,Hot,6-7,Jim Corbett
+Nature,51+,Moderate,2-3,Valley of Flowers
+Religious,31-50,Cold,2-3,Gangotri
+Adventure,18-30,Cold,6-7,Jim Corbett
+Wildlife,51+,Hot,5-6,Rajaji National Park
+Adventure,31-50,Hot,5-6,Rishikesh
+Adventure,51+,Moderate,3-4,Mussoorie
+Religious,51+,Hot,2-3,Gangotri
+Adventure,31-50,Cold,2-3,Rishikesh
+Spiritual,51+,Cold,1-2,Haridwar
+Adventure,31-50,Hot,5-6,Jim Corbett
+Spiritual,51+,Hot,2-3,Rishikesh
+Adventure,51+,Cold,1-2,Rishikesh
+Spiritual,18-30,Hot,3-4,Haridwar
+Relaxation,18-30,Moderate,4-5,Nainital
+Relaxation,18-30,Moderate,1-2,Nainital
+Religious,31-50,Moderate,2-3,Badrinath
+Relaxation,31-50,Moderate,2-3,Mussoorie
+Adventure,51+,Cold,5-6,Auli
+Wildlife,18-30,Cold,3-4,Jim Corbett
+Nature,51+,Hot,5-6,Auli
+Nature,51+,Moderate,5-6,Jim Corbett
+Wildlife,18-30,Hot,2-3,Rajaji National Park
+Relaxation,51+,Moderate,3-4,Almora
+Nature,51+,Cold,2-3,Jim Corbett
+Adventure,31-50,Moderate,1-2,Auli
+Nature,51+,Hot,6-7,Auli
+Religious,51+,Hot,1-2,Haridwar
+Religious,51+,Hot,3-4,Haridwar
+Nature,51+,Hot,3-4,Valley of Flowers
+Nature,51+,Hot,1-2,Jim Corbett
+Religious,18-30,Moderate,2-3,Kedarnath
+Wildlife,18-30,Cold,4-5,Rajaji National Park
+Relaxation,18-30,Hot,1-2,Mussoorie
+Adventure,51+,Cold,4-5,Rishikesh
+Spiritual,31-50,Hot,3-4,Haridwar
+Adventure,31-50,Moderate,5-6,Mussoorie
+Adventure,51+,Hot,4-5,Rishikesh
+Adventure,51+,Hot,1-2,Auli
+Adventure,51+,Moderate,6-7,Jim Corbett
+Wildlife,18-30,Moderate,5-6,Jim Corbett
+Wildlife,31-50,Hot,4-5,Rajaji National Park
+Adventure,31-50,Hot,2-3,Mussoorie
+Religious,18-30,Cold,1-2,Gangotri
+Religious,51+,Moderate,4-5,Gangotri
+Religious,51+,Hot,4-5,Haridwar
+Religious,51+,Moderate,1-2,Haridwar
+Relaxation,51+,Cold,5-6,Almora
+Spiritual,18-30,Hot,5-6,Rishikesh
+Wildlife,18-30,Cold,4-5,Jim Corbett
+Religious,51+,Hot,4-5,Haridwar
+Wildlife,31-50,Hot,2-3,Jim Corbett
+Relaxation,51+,Moderate,2-3,Mussoorie
+Adventure,31-50,Moderate,6-7,Auli
+Religious,18-30,Moderate,1-2,Badrinath
+Adventure,18-30,Cold,4-5,Auli
+Nature,51+,Cold,5-6,Valley of Flowers
+Relaxation,51+,Moderate,3-4,Nainital
+Nature,51+,Hot,2-3,Jim Corbett
+Wildlife,31-50,Hot,3-4,Rajaji National Park
+Spiritual,51+,Moderate,6-7,Haridwar
+Wildlife,31-50,Cold,1-2,Rajaji National Park
+Wildlife,51+,Moderate,1-2,Jim Corbett
+Adventure,18-30,Hot,4-5,Mussoorie
+Spiritual,51+,Hot,2-3,Haridwar
+Religious,51+,Cold,2-3,Kedarnath
+Spiritual,18-30,Cold,5-6,Rishikesh
+Wildlife,51+,Hot,4-5,Rajaji National Park
+Religious,18-30,Moderate,5-6,Kedarnath
+Wildlife,18-30,Hot,6-7,Jim Corbett
+Nature,18-30,Moderate,1-2,Nainital
+Relaxation,31-50,Hot,3-4,Mussoorie
+Religious,31-50,Cold,2-3,Gangotri
+Nature,51+,Cold,3-4,Jim Corbett
+Relaxation,51+,Hot,4-5,Nainital
+Spiritual,51+,Hot,5-6,Badrinath
+Spiritual,51+,Hot,4-5,Rishikesh
+Spiritual,31-50,Cold,2-3,Haridwar
+Nature,31-50,Cold,1-2,Auli
+Spiritual,31-50,Cold,1-2,Rishikesh
+Spiritual,51+,Hot,2-3,Rishikesh
+Nature,31-50,Cold,3-4,Jim Corbett
+Relaxation,51+,Cold,5-6,Almora
+Nature,18-30,Cold,6-7,Jim Corbett
+Religious,18-30,Moderate,1-2,Gangotri
+Wildlife,51+,Moderate,3-4,Jim Corbett
+Religious,51+,Moderate,5-6,Haridwar
+Nature,31-50,Hot,6-7,Valley of Flowers
+Adventure,51+,Moderate,2-3,Mussoorie
+Nature,18-30,Hot,1-2,Valley of Flowers
+Wildlife,31-50,Cold,6-7,Jim Corbett
+Wildlife,18-30,Moderate,2-3,Rajaji National Park
+Relaxation,51+,Moderate,5-6,Almora
+Spiritual,31-50,Moderate,4-5,Haridwar
+Wildlife,51+,Cold,5-6,Rajaji National Park
+Spiritual,51+,Cold,1-2,Rishikesh
+Wildlife,18-30,Cold,4-5,Jim Corbett
+Adventure,31-50,Cold,6-7,Auli
+Religious,51+,Moderate,6-7,Badrinath
+Relaxation,31-50,Cold,6-7,Nainital
+Adventure,31-50,Cold,3-4,Rishikesh
+Relaxation,18-30,Moderate,1-2,Mussoorie
+Relaxation,31-50,Cold,1-2,Nainital
+Relaxation,31-50,Hot,5-6,Almora
+Adventure,18-30,Moderate,4-5,Mussoorie
+Wildlife,18-30,Cold,6-7,Jim Corbett
+Religious,31-50,Cold,2-3,Badrinath
+Relaxation,51+,Moderate,1-2,Nainital
+Adventure,18-30,Hot,2-3,Jim Corbett
+Adventure,51+,Hot,4-5,Mussoorie
+Nature,51+,Cold,1-2,Auli
+Relaxation,18-30,Moderate,2-3,Nainital
+Wildlife,18-30,Hot,4-5,Jim Corbett
+Religious,18-30,Hot,6-7,Badrinath
+Relaxation,31-50,Cold,4-5,Almora
+Nature,18-30,Moderate,3-4,Auli
+Adventure,31-50,Moderate,4-5,Auli
+Adventure,31-50,Hot,2-3,Rishikesh
+Adventure,31-50,Hot,2-3,Auli
+Nature,18-30,Cold,4-5,Nainital
+Relaxation,31-50,Hot,3-4,Almora
+Relaxation,18-30,Hot,3-4,Nainital
+Wildlife,31-50,Hot,3-4,Jim Corbett
+Nature,31-50,Moderate,5-6,Jim Corbett
+Adventure,51+,Cold,3-4,Auli
+Spiritual,51+,Hot,6-7,Badrinath
+Spiritual,51+,Hot,3-4,Haridwar
+Spiritual,18-30,Moderate,6-7,Badrinath
+Nature,18-30,Moderate,2-3,Nainital
+Wildlife,51+,Moderate,4-5,Jim Corbett
+Religious,18-30,Hot,1-2,Kedarnath
+Religious,51+,Cold,3-4,Badrinath
+Adventure,51+,Hot,1-2,Auli
+Wildlife,18-30,Hot,1-2,Rajaji National Park
+Adventure,31-50,Cold,2-3,Mussoorie
+Adventure,18-30,Hot,3-4,Mussoorie
+Nature,31-50,Cold,5-6,Auli
+Relaxation,51+,Cold,2-3,Almora
+Religious,18-30,Cold,4-5,Kedarnath
+Adventure,51+,Cold,3-4,Mussoorie
+Spiritual,18-30,Hot,2-3,Haridwar
+Nature,18-30,Moderate,1-2,Jim Corbett
+Spiritual,31-50,Cold,2-3,Rishikesh
+Wildlife,51+,Cold,2-3,Rajaji National Park
+Relaxation,51+,Cold,1-2,Nainital
+Wildlife,51+,Moderate,1-2,Rajaji National Park
+Spiritual,51+,Hot,4-5,Haridwar
+Religious,31-50,Hot,5-6,Gangotri
+Nature,51+,Hot,2-3,Jim Corbett
+Nature,51+,Cold,5-6,Jim Corbett
+Nature,31-50,Hot,5-6,Jim Corbett
+Relaxation,31-50,Hot,2-3,Almora
+Nature,31-50,Moderate,5-6,Jim Corbett
+Relaxation,18-30,Moderate,6-7,Mussoorie
+Adventure,31-50,Moderate,6-7,Rishikesh
+Relaxation,31-50,Cold,6-7,Mussoorie
+Wildlife,51+,Hot,5-6,Jim Corbett
+Adventure,18-30,Cold,6-7,Auli
+Nature,31-50,Hot,2-3,Nainital
+Religious,31-50,Hot,3-4,Gangotri
+Relaxation,31-50,Moderate,2-3,Almora
+Adventure,51+,Moderate,6-7,Auli
+Nature,51+,Moderate,6-7,Auli
+Spiritual,51+,Cold,1-2,Rishikesh
+Nature,51+,Cold,4-5,Valley of Flowers
+Relaxation,51+,Cold,2-3,Almora
+Spiritual,18-30,Cold,2-3,Badrinath
+Wildlife,18-30,Cold,5-6,Rajaji National Park
+Relaxation,31-50,Moderate,6-7,Mussoorie
+Wildlife,31-50,Hot,3-4,Jim Corbett
+Adventure,18-30,Hot,6-7,Auli
+Relaxation,18-30,Cold,6-7,Almora
+Relaxation,31-50,Moderate,4-5,Nainital
+Spiritual,31-50,Hot,1-2,Rishikesh
+Adventure,31-50,Hot,6-7,Rishikesh
+Spiritual,31-50,Cold,3-4,Badrinath
+Adventure,31-50,Hot,6-7,Auli
+Religious,51+,Hot,1-2,Kedarnath
+Religious,51+,Hot,4-5,Badrinath
+Wildlife,51+,Cold,4-5,Rajaji National Park
+Relaxation,31-50,Hot,4-5,Almora
+Nature,51+,Moderate,3-4,Jim Corbett
+Relaxation,51+,Hot,6-7,Mussoorie
+Nature,51+,Cold,3-4,Nainital
+Wildlife,51+,Cold,6-7,Rajaji National Park
+Religious,31-50,Hot,6-7,Kedarnath
+Relaxation,51+,Hot,2-3,Nainital
+Spiritual,31-50,Hot,2-3,Rishikesh
+Spiritual,18-30,Hot,6-7,Haridwar
+Adventure,18-30,Moderate,6-7,Rishikesh
+Adventure,51+,Hot,4-5,Jim Corbett
+Wildlife,51+,Cold,3-4,Rajaji National Park
+Wildlife,31-50,Cold,3-4,Rajaji National Park
+Spiritual,51+,Hot,1-2,Rishikesh
+Spiritual,18-30,Cold,4-5,Badrinath
+Relaxation,51+,Moderate,3-4,Nainital
+Nature,51+,Moderate,5-6,Auli
+Relaxation,51+,Cold,5-6,Almora
+Adventure,18-30,Moderate,3-4,Rishikesh
+Nature,51+,Cold,3-4,Jim Corbett
+Religious,18-30,Moderate,1-2,Gangotri
+Spiritual,18-30,Moderate,1-2,Rishikesh
+Spiritual,31-50,Hot,1-2,Rishikesh
+Nature,31-50,Hot,5-6,Auli
+Spiritual,51+,Cold,6-7,Badrinath
+Wildlife,31-50,Cold,2-3,Rajaji National Park
+Nature,18-30,Hot,5-6,Nainital
+Nature,18-30,Moderate,3-4,Valley of Flowers
+Wildlife,31-50,Hot,2-3,Rajaji National Park
+Religious,18-30,Hot,2-3,Haridwar
+Wildlife,31-50,Moderate,3-4,Rajaji National Park
+Spiritual,51+,Hot,5-6,Badrinath
+Spiritual,18-30,Cold,1-2,Badrinath
+Spiritual,18-30,Hot,5-6,Haridwar
+Nature,18-30,Moderate,1-2,Auli
+Religious,31-50,Moderate,1-2,Gangotri
+Relaxation,51+,Cold,2-3,Nainital
+Nature,18-30,Hot,3-4,Valley of Flowers
+Spiritual,31-50,Hot,1-2,Haridwar
+Religious,51+,Hot,3-4,Haridwar
+Relaxation,51+,Moderate,3-4,Almora
+Wildlife,31-50,Cold,1-2,Rajaji National Park
+Adventure,51+,Cold,4-5,Jim Corbett
+Adventure,18-30,Cold,5-6,Auli
+Nature,31-50,Moderate,4-5,Auli
+Nature,31-50,Moderate,5-6,Auli
+Nature,51+,Cold,6-7,Jim Corbett
+Adventure,31-50,Hot,2-3,Rishikesh
+Spiritual,51+,Moderate,6-7,Badrinath
+Nature,18-30,Moderate,4-5,Nainital
+Adventure,18-30,Hot,1-2,Auli
+Wildlife,51+,Cold,2-3,Jim Corbett
+Adventure,18-30,Moderate,3-4,Mussoorie
+Relaxation,31-50,Moderate,3-4,Nainital
+Nature,18-30,Moderate,6-7,Jim Corbett
+Nature,31-50,Cold,3-4,Jim Corbett
+Spiritual,31-50,Cold,6-7,Haridwar
+Wildlife,31-50,Cold,3-4,Jim Corbett
+Nature,18-30,Hot,5-6,Auli
+Adventure,51+,Cold,3-4,Rishikesh
+Nature,51+,Moderate,2-3,Jim Corbett
+Nature,51+,Hot,3-4,Nainital
+Adventure,18-30,Moderate,5-6,Jim Corbett
+Relaxation,31-50,Hot,3-4,Nainital
+Religious,51+,Moderate,2-3,Haridwar
+Spiritual,31-50,Hot,1-2,Badrinath
+Relaxation,51+,Cold,1-2,Almora
+Spiritual,51+,Hot,6-7,Badrinath
+Relaxation,51+,Moderate,5-6,Nainital
+Religious,31-50,Cold,1-2,Haridwar
+Spiritual,31-50,Cold,2-3,Badrinath
+Relaxation,51+,Hot,1-2,Nainital
+Religious,51+,Moderate,6-7,Badrinath
+Nature,31-50,Moderate,5-6,Jim Corbett
+Relaxation,18-30,Moderate,2-3,Nainital
+Adventure,51+,Moderate,1-2,Rishikesh
+Adventure,31-50,Hot,5-6,Jim Corbett
+Wildlife,31-50,Hot,6-7,Jim Corbett
+Nature,18-30,Moderate,1-2,Nainital
+Relaxation,51+,Moderate,6-7,Almora
+Spiritual,51+,Moderate,5-6,Haridwar
+Adventure,51+,Hot,3-4,Auli
+Spiritual,31-50,Cold,6-7,Haridwar
+Adventure,51+,Moderate,3-4,Auli
+Spiritual,18-30,Cold,2-3,Haridwar
+Adventure,51+,Hot,1-2,Rishikesh
+Religious,51+,Hot,3-4,Gangotri
+Nature,18-30,Moderate,5-6,Valley of Flowers
+Wildlife,18-30,Cold,6-7,Rajaji National Park
+Wildlife,31-50,Hot,1-2,Jim Corbett
+Relaxation,51+,Hot,3-4,Almora
+Spiritual,51+,Moderate,2-3,Haridwar
+Adventure,18-30,Moderate,4-5,Auli
+Religious,31-50,Cold,1-2,Kedarnath
+Religious,18-30,Moderate,4-5,Haridwar
+Nature,51+,Hot,6-7,Jim Corbett
+Spiritual,31-50,Cold,2-3,Badrinath
+Wildlife,51+,Hot,6-7,Rajaji National Park
+Wildlife,31-50,Moderate,6-7,Rajaji National Park
+Wildlife,31-50,Hot,3-4,Rajaji National Park
+Adventure,51+,Hot,3-4,Rishikesh
+Wildlife,51+,Cold,3-4,Jim Corbett
+Relaxation,18-30,Hot,6-7,Nainital
+Spiritual,51+,Moderate,6-7,Badrinath
+Relaxation,31-50,Moderate,1-2,Nainital
+Wildlife,51+,Cold,4-5,Jim Corbett
+Wildlife,51+,Moderate,5-6,Jim Corbett
+Wildlife,31-50,Cold,5-6,Jim Corbett
+Spiritual,18-30,Cold,4-5,Badrinath
+Spiritual,18-30,Moderate,4-5,Haridwar
+Wildlife,31-50,Moderate,4-5,Jim Corbett
+Spiritual,51+,Moderate,2-3,Rishikesh
+Religious,18-30,Hot,6-7,Badrinath
+Adventure,31-50,Cold,3-4,Jim Corbett
+Adventure,31-50,Hot,4-5,Jim Corbett
+Relaxation,18-30,Hot,5-6,Mussoorie
+Wildlife,51+,Moderate,3-4,Jim Corbett
+Religious,31-50,Cold,1-2,Haridwar
+Religious,51+,Hot,5-6,Gangotri
+Nature,31-50,Moderate,1-2,Nainital
+Relaxation,31-50,Cold,1-2,Nainital
+Spiritual,18-30,Moderate,1-2,Haridwar
+Relaxation,51+,Hot,2-3,Almora
+Spiritual,31-50,Moderate,4-5,Haridwar
+Adventure,51+,Moderate,2-3,Jim Corbett
+Adventure,31-50,Hot,6-7,Mussoorie
+Relaxation,18-30,Cold,2-3,Nainital
+Nature,51+,Cold,3-4,Jim Corbett
+Religious,51+,Hot,4-5,Badrinath
+Adventure,31-50,Cold,1-2,Auli
+Wildlife,31-50,Cold,6-7,Rajaji National Park
+Wildlife,31-50,Cold,1-2,Jim Corbett
+Nature,51+,Cold,3-4,Nainital
+Nature,51+,Moderate,2-3,Valley of Flowers
+Spiritual,18-30,Cold,2-3,Badrinath
+Relaxation,18-30,Hot,1-2,Nainital
+Religious,18-30,Moderate,3-4,Badrinath
+Relaxation,18-30,Hot,2-3,Nainital
+Relaxation,31-50,Moderate,5-6,Almora
+Spiritual,51+,Moderate,6-7,Haridwar
+Spiritual,31-50,Moderate,5-6,Rishikesh
+Nature,51+,Cold,2-3,Auli
+Adventure,51+,Moderate,4-5,Jim Corbett
+Spiritual,18-30,Moderate,2-3,Haridwar
+Nature,31-50,Moderate,2-3,Jim Corbett
+Nature,51+,Moderate,5-6,Jim Corbett
+Adventure,31-50,Hot,6-7,Auli
+Relaxation,18-30,Hot,5-6,Nainital
+Nature,18-30,Hot,1-2,Valley of Flowers
+Wildlife,31-50,Cold,2-3,Jim Corbett
+Relaxation,31-50,Cold,5-6,Nainital
+Religious,18-30,Cold,2-3,Badrinath
+Adventure,18-30,Hot,5-6,Mussoorie
+Spiritual,51+,Cold,5-6,Badrinath
+Relaxation,18-30,Cold,6-7,Almora
+Spiritual,18-30,Cold,3-4,Badrinath
+Relaxation,31-50,Hot,6-7,Almora
+Spiritual,18-30,Moderate,6-7,Haridwar
+Nature,31-50,Moderate,5-6,Valley of Flowers
+Relaxation,18-30,Moderate,2-3,Almora
+Religious,51+,Hot,5-6,Kedarnath
+Spiritual,18-30,Hot,6-7,Badrinath
+Wildlife,18-30,Cold,4-5,Jim Corbett
+Adventure,31-50,Hot,4-5,Auli
+Nature,18-30,Cold,2-3,Auli
+Nature,18-30,Cold,3-4,Nainital
+Adventure,18-30,Moderate,6-7,Jim Corbett
+Nature,51+,Cold,4-5,Valley of Flowers
+Relaxation,18-30,Moderate,1-2,Mussoorie
+Nature,31-50,Hot,2-3,Jim Corbett
+Religious,31-50,Cold,1-2,Haridwar
+Wildlife,51+,Moderate,2-3,Jim Corbett
+Religious,51+,Moderate,2-3,Kedarnath
+Relaxation,51+,Moderate,3-4,Almora
+Nature,31-50,Cold,1-2,Jim Corbett
+Wildlife,51+,Cold,6-7,Rajaji National Park
+Religious,31-50,Moderate,6-7,Badrinath
+Nature,51+,Cold,4-5,Valley of Flowers
+Spiritual,51+,Hot,4-5,Rishikesh
+Nature,18-30,Cold,5-6,Valley of Flowers
+Spiritual,18-30,Cold,5-6,Rishikesh
+Relaxation,18-30,Moderate,4-5,Almora
+Religious,51+,Cold,6-7,Haridwar
+Wildlife,31-50,Hot,2-3,Rajaji National Park
+Religious,18-30,Moderate,2-3,Kedarnath
+Adventure,18-30,Hot,4-5,Rishikesh
+Relaxation,51+,Hot,2-3,Nainital
+Nature,18-30,Hot,2-3,Nainital
+Wildlife,51+,Hot,6-7,Rajaji National Park
+Religious,18-30,Moderate,6-7,Kedarnath
+Adventure,51+,Hot,2-3,Jim Corbett
+Nature,18-30,Moderate,1-2,Valley of Flowers
+Wildlife,51+,Hot,4-5,Jim Corbett
+Nature,18-30,Hot,2-3,Valley of Flowers
+Religious,18-30,Moderate,4-5,Badrinath
+Wildlife,31-50,Moderate,1-2,Jim Corbett
+Spiritual,31-50,Hot,6-7,Rishikesh
+Relaxation,18-30,Hot,2-3,Mussoorie
+Relaxation,31-50,Moderate,1-2,Almora
+Nature,18-30,Cold,1-2,Auli
+Religious,31-50,Cold,2-3,Gangotri
+Spiritual,31-50,Hot,1-2,Rishikesh
+Wildlife,18-30,Cold,4-5,Jim Corbett
+Wildlife,31-50,Cold,5-6,Rajaji National Park
+Relaxation,31-50,Moderate,1-2,Almora
+Nature,51+,Cold,5-6,Valley of Flowers
+Religious,18-30,Hot,6-7,Badrinath
+Adventure,18-30,Hot,1-2,Rishikesh
+Spiritual,18-30,Cold,4-5,Rishikesh
+Adventure,18-30,Cold,5-6,Jim Corbett
+Relaxation,51+,Moderate,2-3,Almora
+Adventure,31-50,Hot,2-3,Jim Corbett
+Nature,31-50,Moderate,4-5,Auli
+Relaxation,31-50,Hot,3-4,Almora
+Religious,18-30,Moderate,1-2,Kedarnath
+Religious,18-30,Cold,6-7,Badrinath
+Nature,51+,Moderate,6-7,Jim Corbett
+Adventure,51+,Cold,4-5,Jim Corbett
+Religious,18-30,Hot,6-7,Kedarnath
+Adventure,51+,Moderate,3-4,Auli
+Nature,18-30,Hot,1-2,Nainital
+Adventure,31-50,Hot,1-2,Jim Corbett
+Relaxation,18-30,Cold,4-5,Almora
+Wildlife,31-50,Hot,3-4,Rajaji National Park
+Relaxation,31-50,Moderate,6-7,Mussoorie
+Wildlife,51+,Hot,1-2,Jim Corbett
+Religious,18-30,Moderate,6-7,Kedarnath
+Spiritual,31-50,Hot,6-7,Rishikesh
+Spiritual,51+,Moderate,3-4,Rishikesh
+Nature,18-30,Cold,3-4,Nainital
+Religious,18-30,Cold,1-2,Haridwar
+Wildlife,51+,Hot,2-3,Jim Corbett
+Relaxation,18-30,Hot,5-6,Mussoorie
+Religious,18-30,Moderate,3-4,Badrinath
+Nature,51+,Moderate,6-7,Valley of Flowers
+Religious,51+,Cold,5-6,Gangotri
+Wildlife,18-30,Cold,1-2,Rajaji National Park
+Spiritual,18-30,Cold,4-5,Rishikesh
+Religious,18-30,Cold,3-4,Badrinath
+Nature,31-50,Hot,3-4,Jim Corbett
+Nature,31-50,Hot,1-2,Nainital
+Relaxation,31-50,Cold,1-2,Nainital
+Relaxation,51+,Hot,3-4,Almora
+Wildlife,18-30,Hot,4-5,Rajaji National Park
+Religious,18-30,Hot,2-3,Haridwar
+Wildlife,51+,Hot,3-4,Rajaji National Park
+Wildlife,51+,Cold,6-7,Jim Corbett
+Nature,18-30,Cold,6-7,Auli
+Adventure,31-50,Hot,5-6,Mussoorie
+Relaxation,31-50,Moderate,4-5,Nainital
+Religious,31-50,Hot,6-7,Badrinath
+Adventure,31-50,Moderate,4-5,Auli
+Nature,31-50,Hot,2-3,Valley of Flowers
+Relaxation,18-30,Moderate,4-5,Almora
+Religious,51+,Hot,2-3,Badrinath
+Relaxation,31-50,Cold,3-4,Almora
+Adventure,51+,Hot,3-4,Jim Corbett
+Religious,31-50,Hot,1-2,Kedarnath
+Nature,18-30,Moderate,1-2,Auli
+Wildlife,18-30,Cold,1-2,Jim Corbett
+Spiritual,18-30,Hot,4-5,Rishikesh
+Adventure,18-30,Hot,1-2,Mussoorie
+Nature,18-30,Cold,6-7,Nainital
+Spiritual,31-50,Moderate,6-7,Rishikesh
+Nature,31-50,Hot,3-4,Nainital
+Adventure,31-50,Hot,3-4,Rishikesh
+Wildlife,18-30,Cold,1-2,Rajaji National Park
+Religious,31-50,Hot,1-2,Gangotri
+Nature,18-30,Cold,2-3,Nainital
+Spiritual,31-50,Cold,2-3,Badrinath
+Nature,18-30,Hot,2-3,Valley of Flowers
+Spiritual,18-30,Hot,1-2,Haridwar
+Spiritual,18-30,Cold,3-4,Badrinath
+Wildlife,51+,Hot,6-7,Jim Corbett
+Religious,18-30,Hot,2-3,Gangotri
+Nature,31-50,Hot,5-6,Valley of Flowers
+Wildlife,31-50,Cold,3-4,Jim Corbett
+Nature,51+,Cold,1-2,Auli
+Nature,51+,Hot,2-3,Valley of Flowers
+Relaxation,31-50,Moderate,4-5,Nainital
+Nature,51+,Hot,2-3,Jim Corbett
+Spiritual,18-30,Moderate,6-7,Badrinath
+Wildlife,51+,Cold,3-4,Rajaji National Park
+Relaxation,51+,Moderate,6-7,Nainital
+Nature,51+,Moderate,4-5,Nainital
+Spiritual,51+,Hot,6-7,Badrinath
+Spiritual,51+,Hot,5-6,Badrinath
+Spiritual,51+,Hot,2-3,Haridwar
+Nature,31-50,Hot,6-7,Jim Corbett
+Religious,51+,Moderate,1-2,Badrinath
+Religious,51+,Moderate,3-4,Kedarnath
+Wildlife,18-30,Hot,1-2,Rajaji National Park
+Wildlife,31-50,Moderate,1-2,Rajaji National Park
+Religious,31-50,Hot,5-6,Gangotri
+Spiritual,18-30,Cold,1-2,Haridwar
+Religious,51+,Hot,1-2,Kedarnath
+Spiritual,31-50,Cold,5-6,Rishikesh
+Spiritual,18-30,Cold,2-3,Rishikesh
+Adventure,31-50,Moderate,5-6,Jim Corbett
+Religious,51+,Cold,6-7,Kedarnath
+Adventure,31-50,Hot,2-3,Jim Corbett
+Nature,31-50,Hot,1-2,Auli
+Religious,51+,Cold,3-4,Badrinath
+Nature,51+,Hot,6-7,Jim Corbett
+Wildlife,31-50,Cold,6-7,Rajaji National Park
+Religious,31-50,Moderate,1-2,Badrinath
+Religious,18-30,Cold,4-5,Kedarnath
+Religious,18-30,Hot,6-7,Gangotri
+Nature,18-30,Moderate,1-2,Auli
+Religious,51+,Hot,2-3,Haridwar
+Nature,18-30,Cold,6-7,Auli
+Relaxation,31-50,Moderate,3-4,Almora
+Nature,18-30,Moderate,1-2,Valley of Flowers
+Adventure,18-30,Hot,1-2,Auli
+Adventure,51+,Cold,3-4,Jim Corbett
+Relaxation,51+,Moderate,4-5,Almora
+Adventure,18-30,Cold,4-5,Mussoorie
+Wildlife,18-30,Hot,4-5,Jim Corbett
+Spiritual,51+,Moderate,5-6,Badrinath
+Nature,31-50,Hot,3-4,Auli
+Wildlife,31-50,Moderate,6-7,Rajaji National Park
+Religious,18-30,Moderate,6-7,Haridwar
+Wildlife,18-30,Cold,5-6,Rajaji National Park
+Religious,51+,Cold,3-4,Haridwar
+Spiritual,31-50,Moderate,3-4,Badrinath
+Religious,51+,Cold,4-5,Haridwar
+Adventure,31-50,Hot,5-6,Mussoorie
+Spiritual,51+,Cold,1-2,Haridwar
+Relaxation,51+,Hot,4-5,Almora
+Nature,51+,Hot,3-4,Jim Corbett
+Religious,51+,Moderate,5-6,Badrinath
+Spiritual,51+,Cold,4-5,Badrinath
+Spiritual,31-50,Hot,2-3,Badrinath
+Spiritual,31-50,Hot,3-4,Haridwar
+Adventure,51+,Moderate,4-5,Jim Corbett
+Spiritual,18-30,Hot,3-4,Badrinath
+Adventure,51+,Moderate,4-5,Rishikesh
+Religious,51+,Hot,2-3,Haridwar
+Spiritual,51+,Moderate,3-4,Haridwar
+Religious,51+,Hot,6-7,Kedarnath
+Religious,31-50,Hot,2-3,Badrinath
+Spiritual,18-30,Moderate,4-5,Rishikesh
+Nature,31-50,Hot,2-3,Auli
+Adventure,31-50,Hot,3-4,Mussoorie
+Adventure,18-30,Moderate,3-4,Rishikesh
+Relaxation,18-30,Cold,2-3,Nainital
+Religious,18-30,Cold,4-5,Badrinath
+Spiritual,31-50,Moderate,6-7,Rishikesh
+Relaxation,18-30,Hot,4-5,Nainital
+Relaxation,18-30,Moderate,5-6,Almora
+Nature,31-50,Cold,6-7,Valley of Flowers
+Nature,31-50,Moderate,1-2,Auli
+Wildlife,31-50,Moderate,6-7,Rajaji National Park
+Spiritual,31-50,Cold,4-5,Badrinath
+Spiritual,31-50,Hot,3-4,Badrinath
+Wildlife,31-50,Cold,6-7,Rajaji National Park
+Spiritual,18-30,Moderate,3-4,Rishikesh
+Relaxation,18-30,Moderate,1-2,Nainital
+Religious,18-30,Cold,1-2,Badrinath
+Relaxation,18-30,Hot,3-4,Almora
+Religious,51+,Hot,4-5,Gangotri
+Adventure,51+,Hot,2-3,Auli

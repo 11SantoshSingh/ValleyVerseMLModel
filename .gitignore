@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tourism_recommender_pipeline.pkl
+.env
+logs/
+.DS_Store
